@@ -1,0 +1,1051 @@
+id|sentimen|clean_tweet|sentimen_score_lb|sentimen_lexicon|sentimen_class_svm_raw|sentimen_class_svm
+3|positif| sumatera selatan asian games berdampak ekonomi langsung diprediksi mencapai triliun indonesia maju jokowi hebat|0.003565303166612525|netral|2|positif
+6|positif| tenang msih ngoceh ttp jokowi harga mati|0.014717421649078926|netral|1|netral
+7|positif| kerjasa ekonomi bilateral multilateral doakan tps dengarkan suara hati|0.013132005571713328|netral|2|positif
+10|positif| pilih pemimpin pencapaiannya pencapaian ekonomi pemerintahan jokowi coblos kerja|0.020734941156604084|netral|1|netral
+12|negatif| nginti abdillahtoha ngacaaa ngajarin sandi ekonomi dibanding jokowi|0.03790470386421091|positif|0|negatif
+17|positif| pakta integritas prabowo sandi ulama terlibat ijtimak ulama pancasila nkri harga mati khilafah khilafah bualan makhluk kolam|0.014449009149252762|netral|2|positif
+18|netral| dengar mbak vidya curup beli lipstik purbasari harga ribu beli lipstik nyx ribu|0.004588193683584765|netral|0|negatif
+20|netral| assalamu alaikum suara sgt berharga upaya memenangkan merelakan suara jkt ktp daerah semoga suara disertakan terbalaskan doa semoga allah swt mengabulkan aamiin rabb|0.038143131010021834|positif|1|netral
+22|negatif| menghargai relawan puasa tirakatan munajad semalam suntuk berdoa kemenangan mhn dibalas tweet kontribusi ngopi rokok tirakat mujahadah gagal tirakat munajad|-0.004286592509785753|netral|2|positif
+23|positif| prabowo sandi menang otomatis bersedekah kaum farkir miskin dhuafa gaji berfua diambil disedekahkan|0.03252173338906054|positif|2|positif
+25|negatif| ummat islam waras cerdas senang beramal coblos prabowo andil beramal gaji beliau diambil untk amal|0.0721390295704152|positif|2|positif
+27|negatif| model ngeles petruk ketaker berbusa didepan sandi ngomongin ekonomi makro congkaknya untung sandi sabar kick pantesan menterinya pintar mbodoni juragannya gini pek|0.012418722318728887|netral|0|negatif
+29|positif| alhamdulillah capres sedekahkan gajinya rakyat miskin korban gempa pasigala butuh bantuan|0.010053660807756177|netral|2|positif
+30|netral| sayah percaya saudara seperjuangan ikhlas negeri berubah lebik lg masyarakatnya damai tenang aman kesejahteraan meningkat harga rendah stabil|0.007521858174590976|netral|1|netral
+33|positif| harga cabai harga bawang petaninya kasihan jokowi|0.007189354957441911|netral|0|negatif
+34|netral| presiden jokowi raja salman sepakat tingkatkan kerjasama ekonomi via|0.0204770512013075|netral|1|netral
+36|positif| terima gaji sbg presiden wapres disumbangkan negara fakir miskin sejarah bangsa indonesia debat pilpres pernyataan penutup prabowosandiaga uno|-0.026697362188032026|netral|2|positif
+37|positif| infrastructure bangun pakai uang pribadi mendukung pakai pajak warga negara bayar|0.011782584129747413|netral|1|netral
+38|positif| penghargaan dianugerahkan bukti sosok pemimpin diakui integritasnya|0.045363216715257525|positif|2|positif
+39|positif| bersatu jokowikma pencapaian berhasil tercapai pertumbuhan ekonomi era pemerintahan jk meningkat|-0.01841245957937066|netral|2|positif
+41|netral| maaf rakyat butuh pelukan rakyat butuh harga sembako murah listrik tarif turunkan butuh lap kerja janji|0.010587375770681943|netral|0|negatif
+43|positif| april pilih jokowikma pertumbuhan ekonomi pemerataan zaman jokowi pertumbuhan ekonomi pemerataan pembangunan|0.006216849942841475|netral|2|positif
+45|negatif| surga bahagia bahagiaku sempurna tanpamu gandeng tangan prabowo ustad masuk surga ckckckck salah milih guru ngaji|-0.009022511426290786|netral|0|negatif
+49|positif| penghargaan dianugerahkan bukti sosok pemimpin diakui integritasnya|0.045363216715257525|positif|2|positif
+51|netral| presiden jokowi raja salman sepakat tingkatkan kerja ekonomi via|0.0222425124533759|netral|1|netral
+52|netral| kasih tau penghargaan dianugerahkan bukti sosok pemimpin diakui integritasnya|0.041001609728943116|positif|2|positif
+53|netral| presiden jokowi raja salman sepakat tingkatkan kerja ekonomi via netizen|0.018178625347316103|netral|1|netral
+58|negatif| disitu jokowi membahas game online pemain profesional piala presiden mobile legend hadiahnya bersaing didunia online game ekonomi|0.011089525659705356|netral|0|negatif
+59|positif| april pilih jokowikma ngerti jokowi belajar ngaji pejabat murni mendalami agama unsur pencitraan|0.008911084130545999|netral|2|positif
+63|netral| jokowi capaian pertumbuhan disyukuri indonesia tumbuh kondisi ekonomi global bergejolak|-0.006831472407720593|netral|1|netral
+65|negatif| bersuara keadilan suara id kerja makan gaji buta curang|0.0051581065728484215|netral|0|negatif
+66|negatif| jokowi prabowo sandi pecicilan pesimis jalan ekonomi makro mikro tau|-0.031341109371937216|negatif|1|netral
+68|netral| berita terbaru prabowo naikkan pajak persen setahun|0.0040426081801693175|netral|1|netral
+70|netral| kasih tau pencapaian berhasil tercapai pertumbuhan ekonomi era pemerintahan jk meningkat|-0.017365423496896442|netral|1|netral
+71|positif| presiden bangunkan spbu setelag kabupaten puncak jaya papua harga ribu liter liter|0.016383189625756557|netral|1|netral
+72|positif| bersatu menangkan brbagai upaya membangun indonesia bebas korupsi pelayanan berbasis elektronik sistem pengaduan masyarakat penghargaan masyarakat mengungkap korupsi|0.03845996827124582|positif|2|positif
+75|netral| bangga jalan ekonomi jatuh nengara menag buka jalanya megah hasil bumi laut melimpah ruah idonesia maju pemenang|-0.001661795453264653|netral|1|netral
+78|netral| jas harga mahal pakaian orang eropa amerika|0.002630917826223428|netral|0|negatif
+79|netral| prabowo janjikan harga karet kelapa sawit bikin senyum petani|0.021853984478752968|netral|0|negatif
+81|negatif| mencontoh ekonomi china sujud|0.020561481634907484|netral|0|negatif
+82|positif| fyi pencapaian berhasil tercapai pertumbuhan ekonomi era pemerintahan jk meningkat|-0.01841245957937066|netral|1|netral
+85|negatif| gaji presiden wakil presiden tunjangannya ambil sepeseun gaji tunjangan hebat jualan gaji namanya jualan basi|0.004932962564753025|netral|0|negatif
+87|netral| jamu jokowi raja salman sajikan nasi mandhi warta ekonomi|0.008336169218054641|netral|1|netral
+89|negatif| moslem menghormati menghargai umat agama cinta damai islam mengajarkan berbuat manusia terkecuali kamipun pendukung bhineka tunggal ika|0.010580601406777659|netral|0|negatif
+93|negatif| suudzon samping umroh jokowi membahas kerja bidang ekonomi pemerintahan arab saudi nyinyir urus junjunganmu ziarah kubur nyembah kuburan|-0.011568592817406428|netral|0|negatif
+97|negatif| mahal banget hasilkan harganya mahal power plant produksi|0.033495740292732425|positif|0|negatif
+103|netral| fyi penghargaan dianugerahkan bukti sosok pemimpin diakui integritasnya|0.03969281462585034|positif|2|positif
+104|negatif| wanita cerewat suaminya cerewet tukang sayur harganya|0.010612000865568131|netral|0|negatif
+106|netral| sisi industri kreatif inovatif era industri global jokowi tergerak mengubah badan ekonomi kreatif bekraf kementerian|0.06266936455727909|positif|1|netral
+108|netral| mudzakir guru ngaji jokowi anakanak orang dewasa diajari membaca quran privat|0.007948481868051915|netral|2|positif
+112|negatif| masyarakat nyata membayar pajak dieksploitasi dirampok hak hartanya menetapkan aturan meraup keuntungan mengeksploitasi merampok harta negara bangsa menghindari pajak|0.004852975183968028|netral|2|positif
+113|netral| april coblos jokowima ruf pilih pemimpin pencapaiannya pencapaian ekonomi pemerintahan jokowi|0.02151406528418692|netral|1|netral
+115|netral| april pilih jokowikma pemerintah jokowi menyebut ekonomi indonesia tangan anakanak muda kreatif|0.028943202744120745|positif|2|positif
+117|negatif| ngaruh jokowi kutub utara rakyat taunya barang harga harga murah berobat gampang kemana hutang negara nambah|0.01811928152357897|netral|0|negatif
+118|netral| teilih presiden wapres prabowosandi berjanji gajinya kaum miskin|-0.0259966128438555|netral|1|netral
+121|positif| jokowikma pemimpin optimis penghargaan dianugerahkan bukti sosok pemimpin diakui integritasnya|0.0659251700680272|positif|2|positif
+127|negatif| allah mgkn sosok seorg jokowi berani capres mgkn tlg fitnah presidenku jokowi jln beliau presiden dihargai curiga blg cawapres|-0.01836283331489996|netral|0|negatif
+131|negatif| gaji mah cegah berantas korupsi cegah berantas korupsi kolusi nepotisme masyarakat jokowi ahok dipercaya masyarakat kemauan keberanian berantas korupsi kolusi nepotisme|0.07504870471169954|positif|0|negatif
+134|positif| mencoblos beramal teilih insyaallah menginfakkan gajinya kaum dhuafa suara siasia kawan mari dukung niat|0.030591169940173645|positif|2|positif
+135|netral| pilih pemimpin pencapaiannya pencapaian ekonomi pemerintahan|0.0312994838069782|positif|1|netral
+136|negatif| dihargai periode jokowi jabatan pikirin|0.007671188630490954|netral|0|negatif
+137|netral| berita terbaru naikkan rasio pajak prabowo terkenang orde|0.01659911813978899|netral|1|netral
+138|positif| kasih tau jokowi bangunkan spbu setelag kabupaten puncak jaya papua harga ribu liter liter|0.014508761339033331|netral|1|netral
+143|positif| bersatu dukung jokowiamin menterinya berestasi pemimpinnya era dimana menterinya meraih penghargaan|0.022824337305830597|netral|2|positif
+149|negatif| jokowi naikkan tax ratio drastis guncang ekonomi|0.011468039003250273|netral|1|netral
+152|netral| fyi menterinya berestasi pemimpinnya era dimana menterinya meraih penghargaan|0.022683870154626584|netral|2|positif
+153|negatif| dikritik infrastruktur pembiayaan china mencontoh kemandirian china berhasil nyambung koalisi demokrat mengkritik kegagalan ekonomi kesalahan pemimpin|-0.0447919434197268|negatif|0|negatif
+155|positif| mencoblos prabowo sandi beramal gaji prabowo sandi disumbang dhuafa anak yatim|0.04136804073109754|positif|2|positif
+156|positif| presiden jokowi raja salman bin abdulaziz alsaud pertemuan bilateral sepakat meningkatkan kerja bidang ekonomi|0.01927844491019669|netral|1|netral
+161|positif| fyi jokowi bangunkan spbu setelag kabupaten puncak jaya papua harga ribu liter liter|0.013556910354965852|netral|2|positif
+162|negatif| difitnah ulama oposisi polri diam digaji uang negara coba pro langsung gaspol tolong teilih buang petinggi polri era tito pedalaman ganti|-0.013769807444220631|netral|0|negatif
+163|netral| debat kemarin berdua ambil gaji kelak teilih presiden wakil presiden dasar mengambil hak terimakasih|0.01251167478518343|netral|2|positif
+164|netral| pemerintah menyebut ekonomi indonesia tangan anakanak muda kreatif|0.03618937059016955|positif|1|netral
+166|negatif| laku semuan pernyataan masyarakat cerdas muak ketidak adilan ketidak pastian hukum ketidakpastian ekonomi orang anti kritik pembatasan kebebasan beendapat semoga allah hidayah perubahan|-0.017795729844225897|netral|0|negatif
+174|netral| jokowi warga papua berhak merasakan harga bbm pulau jawa|0.031689876543902804|positif|1|netral
+176|netral| jalan tol trans sumatera melanjutkan jokowi duluan ekonomi berkembang setahun disaat ekonomi negara berkembang minus rupiah stabil zaman sby inflasi negara|-0.0008049558799823317|netral|2|positif
+177|netral| impact negara gimana gamers difasilitasi bikin negara mandang gamers indo hebat diadain penyelenggaraan game internasional indo impact sponsor kunjungan wisatawan meningkat ekonomi maju|0.006415252064764863|netral|0|negatif
+178|netral| subsidi sasaran setuju bicara daya beli masyarakat melemah sesaui topik ekonomi bahas setuju|0.009463889608954541|netral|2|positif
+179|netral| psimis orang pecinta game developer game nyerap tenage kerja iyalah game jualan printilan dibutuhin diamond mobilegend dibangun pelan langsung ngubah ekonomi makro|-0.01101036814540321|netral|1|netral
+180|netral| lampung aceh makan malam pake jalan pake tol bensin irit barang cepat transport bahan pangan murah harga bahan pokok murah bikin harga bahan pokok dimana|0.018078029451388568|netral|0|negatif
+182|negatif| dolar turun tong ngerti ekonomi bicara ekonomi belajar ekonomi|0.005799741570197475|netral|0|negatif
+185|negatif| bayar jalan tetep bayar nda langsung pajak gabayar darimana duit perawatannya|-0.004486391777906687|netral|0|negatif
+186|netral| emang terbukti sandi gubernur ambil gajinya|0.026084750418524646|netral|1|netral
+190|netral| presiden jokowi raja salman sepakat tingkatkan kerja ekonomi news|0.01977112218077857|netral|1|netral
+192|positif| infrastruktur perekonomian pemerataan membangun gratis dibangun hutang dibayar pajak rakyat jagalah amanah rakyat teilih menghianati demokrasi sehat presidenku|0.03477333696464766|positif|2|positif
+193|negatif| litah tk bertulng owo bilng mndiri kaki sndiri bljr cina pjk hpus gji elit exsekutif omng sembako murh listrik murh jokowi negara ambruk murah setahun thun negara nombok trus harga|0.007957939831257872|netral|0|negatif
+195|positif| perubahan utama keadilan sosial rakyat indonesia harga sembako murah|0.057728011504739614|positif|2|positif
+196|positif| yusuf mansur menilai ma ruf amin sosok ideal mendampingi jokowi maju pemilihan presiden pilpres pasangan diharapkan mendongkrak ekonomi syariah|0.041251634133115986|positif|2|positif
+200|negatif| bertanding sampe kalah gubernur indonesia anies wina melompat pakar ekonomi kelola keuangan harga ekonomi masy meningkat trus ajakannya suruh ikat pinggang kencang sabar sorry terbiasa jalan kenal sensi|0.0037287146332233728|netral|0|negatif
+205|netral| salam kebangsaan nkri pancasila harga mati sabang maroke politik penonton politik pendapat demokrasi pilih presiden l ngsung rakyat sis|0.014236501836825488|netral|1|netral
+211|positif| liat video netes air mata doakan semoga menang nasib ekonomi ojol aaminnnn|-0.01501681550726208|netral|2|positif
+214|netral| ngapain digaji udahhh kayaaa raya congggg ngambil dikit gakpapa dikit hehe salam jari prabowo sandi|-0.0051643292207092725|netral|1|netral
+215|negatif| muslim kaffahnya gaji karyawannya dibayar ngemplang pajak panama papers lupa indonesia bubar maju jalan lucinta luna suka batangan homo ingaaaat|0.00021508707623762638|netral|0|negatif
+218|negatif| kedaulatan negara ditentukan kedaulatan ekonomi kesejahteraan berdaulat ekonomi salah kelola rezim orba jokowi membenahi dasar pondasi ekonomi analisanya|0.018593459471522387|netral|0|negatif
+219|netral| pencapaian berhasil tercapai pertumbuhan ekonomi era pemerintahan jk meningkat|-0.02045828842152296|netral|1|netral
+221|negatif| iya isi dompet kaya ekonomi indonesia salah jalan dompet pasangin kompas pake gps ngumpulin modalnya|-0.0034850720710324907|netral|0|negatif
+224|negatif| pemahaman tata negara pemahaman peraturan pemahaman kebijakan ekonomi pemahaman kursi mentri diisi kompeten ketimbang prabowo jatah kursi menteri paol pendukungnya|0.07007289323903568|positif|0|negatif
+231|netral| gelar pertemuan bilateral presiden jokowi raja salman sepakat kerja ekonomi ditingkatkan bidang energi pariwisata|0.011339828967901795|netral|1|netral
+236|negatif| salah arahnya pembangunan ekonomi indonesia terlepas andil menyalahkan kesalahan kesalahan presidenpresiden|-0.050926512021729736|negatif|0|negatif
+238|negatif| harga tiket pesawat diturunkan brharap aspek trlbh dngan mahal harga tiket pswt terbang mahal tarif biaya expdisi kota melonjak|0.03699388620028474|positif|0|negatif
+245|negatif| die zaman jokowi ekonomi anjlok gadget bayar wifi bilang anjlok n serba mahal|0.014537567406836873|netral|0|negatif
+249|netral| prabowo berbuat rakyat gaji karyawannya dibayar heheheheee|-0.009717961561089221|netral|0|negatif
+250|negatif| akui kekurangan akui prabowo kristen mualaf ibunya kristen hashim kristen sholat wudhu gerakan salah ngaji dipecat tni elit bajingan|-0.022037997809938373|netral|0|negatif
+256|netral| om prabs membangkitkan ekonomi lepas hutang dunia lepas cengkraman elite global kuncinya pakai uang kertas pakai emas perak alat tukar resiko melawan dunia hadapi bangsa|-0.0106034066270711|netral|0|negatif
+257|negatif| gaji karyawan terkatungkatung kabar|0.0066699604743083|netral|0|negatif
+259|netral| presiden jokowi raja salman tingkatkan kerja ekonomi|0.01857755762361785|netral|1|netral
+268|negatif| rakyat pekerjaan pekerjanya diimpor china rakyat panen padi berasnya impor rakyat sembako murah suruh tanam petani karet kenaikan harga suruh tanam jengkol jokowi mmg tau kemauan rakyat rabb semoga otakku sehat|0.036314812570848405|positif|0|negatif
+271|positif| kepemimpinan presiden jokowi indonesia maju perekonomian dunia menentu|0.0001145488981297239|netral|2|positif
+277|netral| video sudut pandang berbeda video membahas real energi sosial lingkungan ekonomi politik budaya batubara|0.0135183824463771|netral|1|netral
+280|netral| presiden jokowi raja salman sepakat tingkatkan kerja ekonomi|0.0222425124533759|netral|1|netral
+281|negatif| media asing tunjukkan beranganangan lantas menabur fitnah jijik kebohongan kesombongan kau dibanding kau apaapanya samasama makan gaji pembayar pajak kau tidurnya|-0.010339649119980412|netral|0|negatif
+282|netral| dpt harga rb toko abang|0.015435480300115982|netral|1|netral
+291|netral| prabowosandi tegaskan ambil gaji teilih|0.02066910812919586|netral|1|netral
+292|netral| teilih prabowosandiaga janji ambil gaji|0.005284492744580477|netral|2|positif
+294|netral| penutup debat pamungkas prabowosandi mandat seperseun gaji ambil|0.007175728594495672|netral|1|netral
+295|negatif| utang prabowo bwjibun utng ln utang pribadinya puluhan triltun gaji diambil busyeettt jngn utang bebas dibayar jemarin dipailitkan biar bayar pemerintah mk bwrambiai mengumbar janji|0.003941219739693207|netral|0|negatif
+299|positif| janjinya ngehapusin pajak bikin hutang negara nambah mbak pajak negara|-0.0030585360920207536|netral|0|negatif
+301|positif| ijin aspirasi teman desanya penghasilan utama berasal lada merica semenjak rezim berkuasa harga lada murah berharap prabowo sandi berkuasa mengstabilkan harga|0.04191968438368652|positif|2|positif
+302|negatif| janji ekonomi meroket nyungsep link dibawah ingatkan janji akui gagal penuhi janji cc twit|-0.002448139437506661|netral|0|negatif
+303|negatif| maksudnya emangnya ngitung pertumbuhan ekonomi|-0.028318721854939163|negatif|0|negatif
+304|netral| pencapaian berhasil tercapai pertumbuhan ekonomi era pemerintahan jk meningkat hyperlink|-0.01841245957937066|netral|1|netral
+309|netral| tax ratio xx tax amnesty pengusaha pelaku ekonomi berat teriak xx dijalankan pemerintah jokowi dibidang pajak efektif terbukti tembus target penerimaan pajak|0.013452230241658451|netral|1|netral
+310|negatif| ngapain holdang holding pake istilah world class duitnya parkir negeri pengaruh ekonomi ekonomi nasional|0.005015952817319843|netral|0|negatif
+311|netral| id ri usut gaji rakyat|-0.029782306549281837|negatif|1|netral
+317|positif| sehat pangkalan harga tentukan fkir bodoh semenjak jokowi subsidi gas kurangi alih dana pkh bolak pinter mbolak subsidi|0.0073804461347897095|netral|2|positif
+318|positif| apapun harga mati apapun jokowi amin nkri|0.01649479413634345|netral|2|positif
+322|positif| ngemplang pajak korupsi maen proyek mafia impor keknya meriang takut prabowo menang|0.01504934156426316|netral|2|positif
+326|negatif| memilukan kemiskinanlah pendukung jokowi bilang ekonomi meningkat temui acara jokowi|0.00760805058978503|netral|0|negatif
+329|positif| memiliki pemikiran cemerlang kemajuan ekonomi indonesia konsep ekonomi keumatan ma ruf amin cocok mendampingi jokowi maju pilpres|0.03787299885868982|positif|2|positif
+336|positif| tertarik programnya jokowi trans sumatera ekonomi sumatera berkembang|0.01864771584099414|netral|2|positif
+338|positif| nasionalisme beliau didunia internasional pemilu beliau berkunjung solusi kerja perkembangan ekonomi indonesia mantab jokowidodo lanjutkan|0.003439063454724169|netral|2|positif
+342|netral| gas normal kg bbm aman setara harga indonesia keadilan sosial rakyat indonesia sembako normal jualan makanan belanja pasar belanja bilang mahal dumeh|0.002626234273551012|netral|1|netral
+344|positif| want test ur vice president sir solusi indonesia harga bhn pokok terjangkau lapangan kerja tersedia kesejahteraan guru lbh tenaga medis pasien perbaiki|0.04259021245303755|positif|2|positif
+345|netral| presiden jokowi raja salman sepakat tingkatkan kerjasama ekonomi rri|0.017968396586036176|netral|1|netral
+347|positif| alhamdulillah membangun ekonomi pemerataan adil mengalami batu aral korban kerjakan lakukan percaya anak cucu merasakannya|-0.002489442170982772|netral|2|positif
+348|positif| unggul menang telak ekonomi jagonya|0.03126793563581757|positif|2|positif
+350|netral| teilih prabowosandi sumbangkan gajinya anak yatim dhuafa|0.004370118338151693|netral|1|netral
+360|netral| jokowisalman sepakati peningkatan kerjasama ekonomi|0.008796063818366309|netral|1|netral
+361|netral| menang pilpres prabowosandi komitmen ambil gaji walapun serupiah|0.003088004446798935|netral|1|netral
+362|positif| wajib jokowi periode harga mati|0.0370647862535225|positif|2|positif
+365|negatif| bukti harga barang turun tol|0.02490375873853916|netral|2|positif
+366|netral| jokowi salman sepakati peningkatan kerja ekonomi news jawa barat|0.010713746010527816|netral|1|netral
+367|positif| nnti presidennya tolong program pertamanya harga tiket pesawat puasa lebaran diturunin kmren kasian anak rantau rindu rumah puasa lebaran dirumah kangen masakan emak cc|-0.023609858556104927|netral|0|negatif
+369|netral| teilih prabowosandi sumbangkan gajinya anak yatim dhuafa|0.004370118338151693|netral|1|netral
+372|netral| teilih prabowo janji turunkan harga listrik okezone news|0.0020582700154776977|netral|1|netral
+377|positif| debat pamungkas jokowi visi misinya kedepan jawani debat m amin surise elemen prabowo mengusung program pelitanya orba sandi uno excellent closing kena smash jokowi ekonomi makro nice debat|0.002135138006363138|netral|1|netral
+382|netral| analis politik ekonomi jokowi kritik kebijakannya|-0.012603488313392905|netral|1|netral
+393|negatif| jl tol kalangan menengah keatas menegah kebwh jgnkan lwt tol motor warung pinggir jln tol tutup sbagian pembelinya tol mkn belanja rest area mempercepat pertumbuhan ekonomi|-0.0003976380551686941|netral|0|negatif
+397|positif| ragukah pas prabowosandi tegaskan ambil gaji teilih rmol pasangan calon presiden calon wakil presiden|0.013575625890498438|netral|2|positif
+400|positif| pembangunan infrastruktur dibangun masiv meningkatkan perekonomian bangsa terima kasih jokowi|0.00790864990509361|netral|2|positif
+402|netral| bandara kertajati selesai ditangan jokowi menggerakan ekonomi rakyat|-0.05927775570013843|negatif|1|netral
+403|positif| negara china sebentar negara adikuasa ekonomi obyek kemajuan ekonomi contoh kiatkiat strategi tempuh|0.01200600128154753|netral|2|positif
+407|negatif| memprioritaskan perekonomian agraris pemerintah menghambat skala prioritas bolak ngomong susah bener pahamnga|-0.07445184231539584|negatif|0|negatif
+411|positif| era jokowi kemjuan teknologi dimanfaatkan pengembangan ekonomi kreatif|0.03331811182156411|positif|2|positif
+413|positif| pilihan ttp menghargai berbeda bimillaahirraohmaanirrohim mengikuti hati nurani ttp jokowi hati jokowi|0.04621513655666499|positif|2|positif
+417|negatif| gagal ngapain stagnan pas debat bahas mobile legend ekonomi indonesia|-0.011457844909197115|netral|0|negatif
+419|netral| langkah pemerintahan presiden jokowi pemberdayaan ekonomi keumatan bank wakaf mikro ketum arus muslimah munifah syanwani|0.0019449252879900414|netral|0|negatif
+423|negatif| prabowo teilih ekonomi infrastruktur dibangun besaran jokowi jadii tinggal duduk manis|0.017175200848306236|netral|2|positif
+424|positif| mencoblos bersodaqoh gaji beliau diinfaqkan duafa anak yatim insya allah|-0.02343959964023716|netral|2|positif
+426|positif| penghargaan dianugerahkan bukti sosok pemimpin diakui integritasnya|0.045363216715257525|positif|2|positif
+428|netral| disaksikan sandiwara penghargaan tokoh pemerataan pembangunan|0.0458188101186291|positif|1|netral
+429|negatif| bahas ekonomi infrastuktur boring nich|0.016782300160612797|netral|0|negatif
+434|negatif| anti china menggandeng cina devisit neraca perdagangan dipengatuhi ekonomi dunia judilnya gara jokowi dasar kampret|-0.005691616658950983|netral|0|negatif
+436|negatif| pernyataan ambil gaji beritakan|0.01524596680791858|netral|0|negatif
+438|negatif| ngajarin ekonomi mikro makro pengusaha top kaya prabowo sandi ngajarin ikan berenang jago|0.012008072664907415|netral|0|negatif
+441|negatif| suka bilang sebentar ekonomi meroket capres|0.007213734935018775|netral|0|negatif
+447|negatif| ngakunya ngakunya prabowo perhatian rakyat hoax karyawannya pt kiani kertas nusantara terkatungkatung gaji thr selesaikan masalahmu bowok menyelesaian rakyat|0.009979671660016022|netral|0|negatif
+449|negatif| amin pelajaran berharga fitnah kejam sepwrti mudah rezim acak ulama umat islam pelakunya pelakunya wereng coklat dipaksa jagal talangsari|-0.010821919549954876|netral|0|negatif
+450|positif| trans sumatra menunjang pertumbuhan ekonomi sumatera membantu pemerataan sosial sumatera logistik bahan bakar keperluan mudah dikirimkan jalur memadai jokowi mewujudkan kemajuan pulau sumatera trans sumatra|0.004372615202783573|netral|2|positif
+453|netral| debat capres prabowo ekonomi ri salah arah|-0.02540923443527212|netral|1|netral
+454|positif| jokowi udahdeh pelawak peratiin kayaknya cocok ngurusin negara gaji pelawak gede gaji presiden looo|0.021223427799052414|netral|2|positif
+457|positif| hahahaha negara memiliki skala prioritas bernilai keekonomian makro nano piko tergantung impor bahan baku pangan elektronik dikejar pertumbujan ekonomi stagnan|-2.324352953585757e-05|netral|2|positif
+460|positif| debat allah pamungkas bangett prabowo sandi bilang teilih presiden wakil presiden menyumbangkan gajinya rakyat masya allah mulia banget prabowo sandi|0.004430956740754086|netral|2|positif
+462|negatif| prabowo terima gaji exit plan gaji karyawan pt kiani kertas menerima gaji perhatian rakyat karyawannya digaji munafikun|0.0017066181548599708|netral|0|negatif
+463|positif| butuh jl tol butuhkan hasil pertanian harga jual ditingkatkan|0.012207183285872959|netral|2|positif
+464|netral| consol games hardware esport pemanfaatannya dampak keekonomiannya masif bangga banget esport dampaknya esports|-0.010416666666666666|netral|2|positif
+466|negatif| ekonominya target idola bicara digit gimana terbukti bilang|0.02306960466505257|netral|0|negatif
+473|netral| mkin maksud kiani kertas bayar gaji buruhz kali kiani kertas produksi kertas produksi utang karyawabx|0.005534705603276425|netral|0|negatif
+474|positif| capres kaleng hoax harga melambung faktanya harga stabil inflasi normal grafik menurun mengelola oce gagal ngomongin ekonomi makro libas ma sikaleng bilang|-0.009921707370529734|netral|2|positif
+478|netral| kader terima disisi prabowo bilang ekonomi indo rusak presiden bilang ciri koalisi berkelas kayaknya lg menghibur|-0.01419121402568636|netral|0|negatif
+479|netral| dibangun jalan negara jalan tol disadari indonesia kalah malaysia pembangunan besaran dilanjutkan melebihi malaysia potensi indonesia berhasil raksasa ekonomi dunia|0.008166002016366488|netral|1|netral
+482|positif| maju sumatra semoga jalan tol pertumbuhan ekonomi banyakkkkk aamiinn|0.026684230168344883|netral|2|positif
+484|positif| bentar narasi pembangunan tol lari bahas ekonomi temennya belajar konsisten tema singgung wkwkwkwk|-0.010037368040712643|netral|2|positif
+485|netral| tol melanjutkan prestasi ekonomi gimana rupiah devisa inflasi proyek platform bandara kertajati sepi uang dibakar|0.00021030791651543277|netral|1|netral
+494|negatif| yaa mata dianggap berharga ayoo tempeleng donkk|0.003061212943459466|netral|0|negatif
+497|netral| kalinya indonesia era kepemimpinan jokowi harga bbm merata indonesia|0.003727767336662224|netral|1|netral
+499|positif| mencoblos probowo sandi beramal gaji prabowo sandi sumbangkan fakir miskin kaum duafa|0.004860967695750301|netral|2|positif
+500|positif| kebijakan jokowi bbm harga bentuk nyata keadilan sosial rakyat indonesia|0.05511733208825557|positif|2|positif
+503|netral| komitmen prabowosandi ambil gaji serupiah teilih|0.008080214542052358|netral|1|netral
+505|positif| mencoba menarik simpati korban hacker kasihani didukung menduking hasil kerja nyata terbukti janji murah murah ambil gaji jaman orba|0.0033172784640161795|netral|2|positif
+506|netral| garagara ketimpangan ekonomi prabowo salahkan presiden jokowi|-0.030687556712825977|negatif|1|netral
+513|netral| ahli ekonomi klrg cc|0.02571680080482897|netral|1|netral
+515|netral| ekonomi prabowo salah jalan|-0.04043719665183052|negatif|1|netral
+522|positif| dicontohkan ustadz abdul shomad diundang istana jabatan apapun jk prabowosandi mjd presiden prabowosandi mengambil gaji muncul orang ikhlas berjuang indonesia adil makmur|-0.022407741968309868|netral|2|positif
+523|netral| uang membangun sekolah membangun rumah sakit meningkatkan kesejahteraaan rakyat program ekonomi produktif perlindungan sosial membangun infrastruktur jokowi|0.019393724232723758|netral|2|positif
+525|negatif| butuh gaji disawer diterima gaji meningkatkan kinerja tanggung|0.02766988094506816|positif|0|negatif
+528|positif| simpati paslon ps bcr pjg jk ketemu jujur sgt khawatirkan jk beliau melanjutkan sistem ekonomi kolonial mengeksploitasi rakyat kekayaan bangsa anak cucu paham ekonomi berkeadilannya pancasila|0.011062073144570991|netral|2|positif
+536|positif| asn zaman soeharto jiwanya uang urusan lancar perekrutan asn salah dibenahi jokowi menaikkan gaji mengangkat honorer jnji prabowo ektp mbak cepat|-0.002474031077300557|netral|2|positif
+538|negatif| jessnolimit negarawan urusannya game kesejahteraan rakyat tema ekonomi berdasarkan ekonomi negara mengurus kepentingan kepentingan pokok masyarakat games|0.0011833779320431928|netral|0|negatif
+549|negatif| aneh membingungkan letjen pecatan seumur militer menteri berkali ekonomi salah arah pertanyaannya salah arahnya dimana solusinya ngawur|-0.01197374711419982|netral|0|negatif
+552|negatif| tampangnya pengangguran mental ogah dungu kaya gampang bodohin dijanjiin hidup senang prabowo menang harga mati emang wowo menang hidupnya enak ngimpi|-0.0023951266057172012|netral|0|negatif
+556|negatif| kelakuan jongosnya menebar kebencian mayoritas rakyat dmn ganti presiden harga mati curang silahkan gulingkan|-0.02857751649947005|negatif|0|negatif
+558|netral| rizal ramli ekonomi indonesia tumbuh persen prabowo teilih|0.0019430536708623836|netral|1|netral
+559|positif| insyaallah paham maksud menimbang ulang nkri orang dilabeli harga mati sejatinya diperkosa berkali kali output harga mati dikebirinya landasan fundamental negara|0.04532313219238069|positif|2|positif
+564|positif| mengambil gajinya|0.0040222772277227715|netral|1|netral
+569|netral| barisan sakit hati jokowi merapat prabowo pengamat tampik pertumbuhan ekonomi ri stagnan|-0.020023843731812|netral|1|netral
+571|positif| nikmati prosesnya mahal murah wajar inflasi terjaga harga sembako turun bermain medsos beli paket data mahal murah kebeli|0.040268244094057166|positif|2|positif
+573|negatif| manusia kuper ngerti mobile legend ngomong gituan tol langit sangka jalan yol langit akum sampah ngomong paham atinya main goa trus gaji buzer mna ngerti bahasa|0.020655035844145374|netral|0|negatif
+575|positif| luarbiasa pembangunan infrastruktur era semoga infrastruktur dibangun menunjang pertumbuhan ekonomi pemerataan sosial republik indonesia semangat|0.01356395339094148|netral|2|positif
+577|netral| jaman sby harga pupuk murah jaman pupuk mahal langka pk|0.029353917317907582|positif|1|netral
+578|negatif| nonton debat smalm prabowo turuknya ekonomi indonesia slh presiden sblm|0.009965422971138744|netral|1|netral
+581|netral| prabowo fokus swasembada pangan harga sembako murah menciptakan lapangan kerja target market disasar cenderung kaum emakemak sulit kerja keyword kekayaan negara kebocoran negara|0.02313961881725929|netral|1|netral
+583|positif| memilih prabowo sandi beramal gaji disumbangkan kaum dhuafa anak yatim aamiin|0.04254908191213872|positif|2|positif
+591|positif| presiden menerima gaji prabowo sandi dilimpahkan yatim piatu dhuafa subhanallah|0.004003764463812425|netral|2|positif
+593|positif| logistik lancar arus barang lancar aman preman jalan bagus bikin kendaraan awet harga murah penduduk sumatra menang|0.01049659186039746|netral|2|positif
+595|positif| terlaksana prabowo kebesaran hatinya sys ngaji satunya barangkali mengiyakan sandiwara hiks hiks hiks|8.116883116883041e-05|netral|1|netral
+599|positif| mantap semoga roda ekonomi papua berjalan efektif efisien terimakasih|0.06449082992819467|positif|2|positif
+601|positif| ketuaku harga partai kinerja jokowi dinikmati hasilnya kemaslahatan ummat garis perjuangan ketua beihak masyarakat lemah jokowi membantu masyarakat desa|0.0005829991800237595|netral|2|positif
+602|negatif| sedih mudahan periode pemerintahan jokowi harga kampret minimal ribu|-0.02834620451650212|negatif|0|negatif
+605|positif| mamfaat diperoleh pelaksanaan asian games sebatas bidang pembinaan olahraga nasional sisi pembangunan infrastruktur pariwisata perekonomian luas indonesia maju jokowi hebat|0.006424197210146028|netral|2|positif
+611|netral| kelangsungan peningkatan perekonomian kesehatan pendidikan kesejahteraan sosial indonesia jokowi menerapkan ideide dngan harapan faktor indonesia meningkat seiring berjalannya dimasa pmerintahannya|0.011789224127311121|netral|1|netral
+612|positif| sandi bahas salah poin buktikan jokowi bagus emang prabowo tau ekonomi makro ekonomi skala nasional|0.022107300730278133|netral|2|positif
+614|netral| prabowo salah arahnya pembangunan ekonomi indonesia terlepas andil presiden jokowi|0.007071282606328119|netral|0|negatif
+615|netral| khusus presiden jokowi pembangunan manusia tantangan global menuntut penguatan sumber daya manusia sdm penopang perekonomian|-0.0021361344992076622|netral|1|netral
+616|netral| bukti pemerataan pembangunan diharapkan koneksi warga papua efisien titik ekonomi tercipta|0.067263943850252|positif|1|netral
+618|netral| gimana gaji|0.0266798418972332|netral|1|netral
+619|positif| assalammu aalaikum wr wb maaf prabowo sandi guru honor perhatikan guru honor honorer sekolah swasta fikiran hidup layak gaji seenak yayasan umr|0.017215343426144492|netral|2|positif
+620|positif| yaa allah berbagi hati memilih prabowo sandi sbg presiden dimana beliau gajinya anak yatim kaum dhuafa yaa allah berilah amanah beliau berdua|-0.005857439257953003|netral|2|positif
+625|netral| harga bbm papua senilai liter sungguh drastik era jokowi menekan harga premium seharga liter setara harga bbm seantero nusantara|0.03782286268138512|positif|1|netral
+626|positif| takdelah ma aruf amin calon naib presiden jokowi pemimpin majelis ulama indonesia pilih prabowo jokowi ekonomi presiden|0.01813375348630677|netral|2|positif
+633|negatif| ning tengaran mengeluhkan harga kacang slalu terjepit harga susu kian menonjol harga kolor turun|-0.022572744567410024|netral|1|netral
+637|positif| berotak memikirkan mobile legend sisi orang cerdas memikirkan ekonomi kerakyatan|0.04251641736762595|positif|2|positif
+643|negatif| kerjanya jokowi bbm listrik bpjs defisit hutang membengkak harga sawit anjlok harga karet anjolk petani garam menjerit susah ganti presiden|-0.008910413405322984|netral|0|negatif
+648|positif| memilih entar kekayaan alam nusantara emas migas tanah uang kas negara habis masuk bank negeri rencana terima gaji presiden kelas kakap ikan teri bawahan|-0.0016080994488924642|netral|2|positif
+651|negatif| pemimpin terbaik ekonominya sesuai goal|0.11104566007854247|positif|0|negatif
+653|netral| coba ngmng gini jaman lulung m topik btw fungsi dprd mitra bidang legislatif pengawas gubernur menjalankan anggaran sbg pembayar pajak lbh seneng anggota dprd garang|-0.00693815482952264|netral|2|positif
+654|positif| presiden menghargai istrinya marufamin|0.04980742296918768|positif|2|positif
+655|positif| semoga jokowers membaca hidayah allah swt teilih prabowosandiaga janji ambil gaji|0.017094420485369455|netral|2|positif
+658|netral| beli lalapan abang lalapan presiden jokowi lalapannya presidennya prabowo harganya dalem hati frontal gini gapapa orang berhak pesta demokrasi negeri pengamat|0.019450198977019613|netral|1|netral
+661|netral| nilai ekonomi peningkatan pariwisata peningkatan kesempatan kerja peningkatan kesempatan usaha promosi kota penyelenggaraan penciptaan nilai ekonomi diraih negara sebagi penyelenggara asian games jokowi hebat jokowi|0.026741755444713296|netral|2|positif
+662|positif| paguyuban suamisuami gaji paspasan keberadaannya nuntut beliin tas hermes|0.0024742468701777452|netral|0|negatif
+665|netral| dampak ekonomi langsung asian games meliputi tahap konstruksi operasional penyelenggaraan kedatangan pengunjung berkontribusi pertumbuhan pdb nilai ekonomi peningkatan output sektor penyerapan tenaga kerja peningkatan pendapatan riil jokowi hebat|0.008255816690495183|netral|2|positif
+672|negatif| topik debat ekonomi kesejahteraan sosial keuangan investasi perdagangan industri pk jokowi membahas e sports game mobile legend dota pubg game anak terlena|0.0015122709244408318|netral|0|negatif
+675|negatif| kasihan gini bicara harga|-0.006977853924199192|netral|0|negatif
+678|positif| tgb menilai jokowi debat kemarin jokowi kuasai bagaimama membangun ekonomi kreatif byo|0.03551804383796872|positif|2|positif
+680|negatif| debat prabowo belajar ekonomi tiongkok lupa kampret benci china|-0.02793977061166177|negatif|0|negatif
+682|negatif| gimana main mobile legend paket kebeli ekonomi lemah prabowo cerdas kena jantung jae kasih biar dianggap manusia millenial dungu ketulungan hehhehee|-0.0044377120603287575|netral|0|negatif
+683|negatif| goblog mempermasalahin moba pubg ngikutin trend milenial lbih dipahamin liat full videonya lg bahas ekonomi digital esport salah satunya pubg moba esport wakkaakaka|-0.012243992193732772|netral|0|negatif
+686|positif| senang gembira lihat lautan manusia kemarin tepatnya tgl april pintar cinta damai provokator muda percaya hoax mendukung golput pancasila toleransi nkri harga mati|0.04412328668228553|positif|2|positif
+688|negatif| kebijakan ekonomi nasional dasarkan orang mengeluh harga mahal bawa ekonomi negara|0.025042318292403196|netral|0|negatif
+690|netral| liat pari tolong digajih team bikin film dokumenter sekeren bikin nangis ngerasa bersalah banget lupa cabut casan matiin lampu|-0.013956199785447695|netral|1|netral
+691|netral| anak ahli ekonomi fenomena ransel prabowo wajar yunus prabowo sandiuno|0.0577535822416547|positif|1|netral
+692|positif| penutup debat kemaren prabowo sandi sepenuhnya gaji sbg presiden n wakil presiden membantu rakyat miskin debat pendukung padi tau|0.005224899943131824|netral|2|positif
+693|negatif| masak kebijakan ekonomi nasional dasarkan keluhan orang harga mahal dibawa kemana ekonomi negara|0.003170480534692874|netral|0|negatif
+694|positif| beneran kocak kemaren ditambah pas uno diajarin ekonomi makro jokowi anjaaay lulusan summa cum laude diajarin tamat dah pasangan|0.008280714143197577|netral|2|positif
+696|netral| ketemuan nomor whatsapp pebayuran bekasi petani pebayuran harga fluktuatif normal kisaran kilo gabah kering|-0.01190514808416992|netral|1|netral
+698|negatif| omm wowo mahir ekonomi sandi pengusaha tw begituan dibawa kemana rakyat diteriakin ilusi|0.01287499720059392|netral|0|negatif
+699|negatif| sandi uno bicara ekonomi global contoh sample murji paijem tegal hahahhahaha|-0.009855233065065932|netral|0|negatif
+702|netral| prabowo malam memuji menyarankan indo meniru tiongkok perekonomian pemberantasan kemiskinan|-0.001280829566675151|netral|2|positif
+707|netral| impor mudah imbasnya harga sembako kaing harga mahal produksi harga jual murah rugi petani digenjot link pembeli diperbaiki melek teknologi|0.004827069113313036|netral|1|netral
+709|negatif| janji ngomong bikin rencana ekonomi tumbuh merong merong tercapai kalah malay thailand|-0.02045859575257573|netral|0|negatif
+712|positif| beramal salahkan presiden otaknya jenius masaknnya jdi enak n harga jualnya mahal sepi pembeli|0.01748059254341444|netral|2|positif
+714|netral| skrg lesu daya beli berkurang biaya hidup mahal tdl bbm tol mahal pajak mahal berimbas biaya produksi transportasi harga harga konsumen turun pendapatanpun turun|0.0006639015789928639|netral|1|netral
+715|negatif| sesekalia jalan karawang petani menjerit semenjak jokowi harga gabah turun drasti impor panen raya|0.03891339514266735|positif|1|netral
+716|negatif| bego drama hoax kubu wowo partai demokrat lecehkan koar harga|-0.0077498932668603904|netral|0|negatif
+717|negatif| tolol mengembangkan digital busung lapar emang manusia indonesia pakai pendekatan ekonomi makro pakai duit beutar dihasilkan industri a diputar perbaikan busung lapar paham|0.031879029647188084|positif|0|negatif
+718|netral| prabowo hargai jasa presiden|0.011190026627935121|netral|1|netral
+721|netral| pemerintah era jokowi mendukung perkembangan ekonomi digital|0.007252019805241013|netral|2|positif
+722|negatif| wanita cerewat suaminya tau sekarnag dimana cerewet tukang sayur harganya|0.00847543668837192|netral|0|negatif
+725|negatif| overheard ehmm jokowi bagus segi pembangunan iyaa ekonomi maju males milih pembangunannya rasain bikin jalan tol kemana motor awas mudik tol|0.01716695874055682|netral|0|negatif
+730|positif| merasakan peluh keringat dirasakan pendukungnya berkumpul pagi penghargaan tertinggi rakyat|0.103685163001902|positif|2|positif
+731|negatif| jokowi paham ekonomi makro mikro romlah|0.11448933715286068|positif|0|negatif
+732|netral| dear butuh kartu skincare unlimited kartu potongan harga beli gincu|0.019954601557862432|netral|0|negatif
+733|negatif| peluang lapangan kerja hitung warga negara indonesia main esport penghasilan esport seujung kuku sia sia prioritaskan lapangan kerja ekonomi mikro swasembada pangan negara berkembang maju|0.014961783762054537|netral|0|negatif
+735|netral| jokowi ekonomi indonesia kuat|0.008030990969741896|netral|1|netral
+738|positif| pembahasan perekonomian digagas prabowo sandi menurunkan tarif harga kian meroket stabil tunggu|-0.01489129750034177|netral|2|positif
+745|netral| arah perekonomian indonesia salah prabowo warta ekonomi|-0.031353350855278725|negatif|1|netral
+747|positif| terheran coba lihat video closing statement tusuk prabowo sandi ngomongnya enak bener pgn harga sembako murah tusuk ps pgn impor tusuk ps kayanya sorga dah takut kaya venezuela|-0.0014220933766593135|netral|2|positif
+750|negatif| prabowo bilang contoh cina buruhnya kerja jam sehari libur minggu trus gaji buruhnya dibayar nasib buruhnya gajinya terkatungkatung bertahuntahun|0.0007431350511041142|netral|0|negatif
+756|positif| tps tusuk prabowo sandi nkri harga mati|0.0056435253200011175|netral|2|positif
+757|positif| ganti pemimpin butuh perubahan jokowi membangun sdm menurun ekonomi pendapatan perkavita rakyat jelata ganti pemimpin perubahan|0.003719444314515975|netral|2|positif
+758|positif| alhamdulillah sandi semoga memimpin negeri prabowo dukung kebijakan prabowo sandi memperbaiki ekonomi teuruk salam agung anfaunnas surabaya|0.07628940185917235|positif|2|positif
+760|positif| semoga prabowo presiden ekonomi maju dunia perawat|0.03414162803964548|positif|2|positif
+761|netral| pernyataan prabowo subianto debat capres malam penanganan ekonomi kesalahan presiden dijadikan bumerang tkn jokowima ruf|-0.01090619734506026|netral|1|netral
+762|negatif| jokowi rakyat indonesia makmur ekonomi prestasi alias meroket bikin bingung mesti kartu kartu|0.007974051895011354|netral|0|negatif
+764|netral| gaji ditransfer hemat ongkos|0.01178789549878538|netral|1|netral
+768|positif| jokowi sederhana mata mata sepatu jokowi harganya juta dimata jokowi sederhana pake baju hugo boss mata jokowi|0.011981751832835723|netral|2|positif
+769|positif| jokowi mengerti tetangga ekonomi negara uno|-0.0012513865874988494|netral|2|positif
+771|negatif| tim jokowi dikasih duit paham betapa gembel hidupnya kampret rela harga ditukar uang beli bensin mobil kagak|0.04726992214447728|positif|0|negatif
+782|positif| mandat rakyat ambil gaji jiplak tah|-0.00013696722869647278|netral|2|positif
+786|positif| presiden jokowi kunker keliling indonesia buku sembako sepeda dana taktis presiden senilai m presiden gembar gembor menyumbangkan gaji menyumbang nilai gaji jt|0.011287937995499731|netral|2|positif
+787|negatif| koalisi diserang hhh anehhh ambil gaji pengusaha otak untung|-0.0061934235575345905|netral|0|negatif
+788|positif| april mencoblos beramal gaji disumbangkan dhuafa yatim inshaa allah|0.023447030693407502|netral|2|positif
+790|positif| rakyat menitipkan harapan prabowo sandiaga perubahan ekonomi keadilan hukum polihkan kerukunan bangsa bernegara bertetangga suku agama|0.017274950247747105|netral|2|positif
+791|negatif| jokowi presiden skrg apapun kerusuhan negara bertanggungjawab presiden dipilih rakyat anggaran pemilu puluhan triliyun digaji rakyat menyelesaikan apapun problem rakyat shame|-0.006502043076906165|netral|2|positif
+793|positif| prabowo ekonomi indonesia salah arah ekonomi makro salah arah berdampak ekonomi mikro merasakan dampak emak masyarakat kls menengah kebawah pandang indonesia didukung pikiranpikiran argumentasi kuat|-0.016533002594357485|netral|1|netral
+794|netral| menang pilpres prabowo subianto sandi uno janji ambil gaji|0.003349493654699825|netral|1|netral
+797|netral| teilih prabowosandi gajinya fakir miskin|-0.1110457142857143|negatif|1|netral
+800|negatif| salah jokowi menurunkan menstabilkan harga toge senggak bikin kebijakan penjual toge eslen ngomel pas dikomplen harga mahal kena sanksi pidana|0.006193911388949145|netral|0|negatif
+801|positif| prabowo sandi komitmen mengambil gaji kepala negara teilih pilpres|0.0076981355424545015|netral|1|netral
+802|positif| ngakak guling guling liat jokowi ngajarin ekonomi makro mikro uno|-0.013147374227654836|netral|2|positif
+803|negatif| bilang indonesia bubar pertumbuhan ekonomi ndasmu tanggapannya|0.001250670855181889|netral|0|negatif
+804|negatif| hidup susah dijaman harga nail listrik bbm|-0.024595281804810302|netral|0|negatif
+807|positif| alhamdulillah ekonomi maju jokowi|0.1419818643041042|positif|2|positif
+809|netral| geram prabowo garagara warta ekonomi|0.0005414655766768436|netral|1|netral
+810|negatif| berita menyalahkan sby salah pembuat kesalahan perekonomian indonesia prabowo muka publik kesalahan konyol|-0.06254629616178357|negatif|0|negatif
+813|positif| allah swt berterima kasih indonesia berkomitmen ambil gaji serupiah dpt amanah sandiaga buktikan tulus negara bangsa prabowo|0.04170221870330492|positif|1|netral
+818|positif| pekerja makan gaji orang anak muda talenta bakat dunia game apresiasi dukung maksd pernyataan jkw|0.029636522040221106|positif|2|positif
+822|negatif| berharap pemilu jokowi nyalon lumayan bawa orang dapetnya gaji umr jakarta|0.015374105620400782|netral|2|positif
+826|positif| hargai perbedaan rakyat bersatu kebersamaan must dibawah kepemimpinan jokowi aaamiin|-0.00033068783068783067|netral|2|positif
+829|positif| preseden fenomenal ahok keras tajam keluarga miskin jakarta digusuri dicerabut sosial ekonomi tinggalnya pemodal podmoro behave lembut penuh kasih sayang ujungnya dirut pengembangnya masuk bui ahok tumbang|-0.00998657617946858|netral|1|netral
+834|positif| kadang pengin nyumbang kaum dhuafa anggaran bln sllu mepet pilih prabowo sandi mensedekahkan gajinya kaum dhuafa|0.0065838292295643894|netral|2|positif
+835|positif| hormat sgt menghargai mengapresiasi pilihan ulil semoga berlabuhnya ulil abshar abdalla kubu jokowi amin insa allah menarik gerbong milenial ragu bimbang menentukan pilihan amin|0.05628544913145239|positif|2|positif
+839|netral| erwin aksa harap prabowo solusi perekonomian|0.01101094183055397|netral|1|netral
+840|netral| jokowi maruf selesai urusan materi prabowosandi ambil gaji sepeser teilih|0.005111986070320942|netral|1|netral
+841|positif| tau heran pdhl pemerintahan sblmnya bbm hrga pangan tbtb skrg stabil kisruh emng susah mb cinta mati didukung wlpn wowo ngelakuin kesalahan kg tetep dibela mati pdhl jokowi harga mati|-0.02920037103939037|negatif|0|negatif
+842|netral| dukung jokowi dahlan iskan kubu prabowo dukung jokowi miliki harapan pertumbuhan ekonomi terlaksana|0.005924702685915135|netral|2|positif
+845|positif| semalem nyinggung mobile legend akuin anak muda doyan ngegame adek cowok kuliah kesehariannya ngegame profesinya penghasilannya gede ngalahin gaji|-0.01317336207762358|netral|0|negatif
+848|positif| dampak ekonomi langsung asian games meliputi tahap konstruksi operasional penyelenggaraan kedatangan pengunjung berkontribusi pertumbuhan pdb nilai ekonomi peningkatan output sektor penyerapan tenaga kerja peningkatan pendapatan riil jokowi hebat|0.008255816690495183|netral|2|positif
+852|negatif| ambil gaji perusahaanya menguadai proyek sobat golput tps pilih jokowi selamatkan bangsa|0.009379225846160712|netral|2|positif
+853|positif| sandi memikirkan ekonomi orang mengeluh berkunjung jokowi memikirkan ekonomi nusantara|-0.023104315604303042|netral|1|netral
+854|positif| jokowi kemajuan indonesia inflasi terjaga perbankan sehat perekonomian bersaing dunia|0.047937612455476813|positif|2|positif
+855|netral| jokowi pemerintah kerja keras lakukan dukung ekonomi digital|-0.0023036411363544524|netral|1|netral
+858|negatif| digaji rakyat kerja bener timses|-0.07408241574908242|negatif|0|negatif
+862|negatif| gaji diambil tunjangan ambil walah walah|0.009068599026280832|netral|0|negatif
+866|netral| janji ambil gaji teilih prabowosandi ikuti jejak presiden terkenal via|0.0037841557658025906|netral|1|netral
+868|positif| rakit kompi programmer gaji digit main game gaptek dimnanya keluarga sibuk bilangin ponakan main game stop presiden ngasih alasan main game presiden|-0.0047142085478179855|netral|2|positif
+870|positif| debat penutupan komitemen ambil gaji serupiah amanah|0.027474845641425664|positif|2|positif
+871|positif| bangga membangkitkan usaha ekonomi kerakyatan dialog wirausaha ketum penggerak pepes okoce kampung islam kepaon titik|-0.0047521905158539645|netral|2|positif
+872|positif| pilihlah pemimpin berkorban wakafkan hartanya bangsa indonesia gajinya infakkan kaum duafa miskin cari jual beli jabatan cari hobby serangan fajar|-0.03406456250694815|negatif|2|positif
+874|netral| menang pilpres prabowo sandi janji ambil gaji|0.00553198203783535|netral|1|netral
+875|netral| capres jokowi tegaskan pancasila harga mati|0.029307639186030607|positif|1|netral
+892|negatif| sontoloyo aplud jainudin eps biar ngaciro jainudin ngaciro raja bohong yaa pilih mobil bayar pajak pakai jalan bayar mahal bilang infrastruktur rakyat kerja kerja kerja ngerjain rakyat|0.0006085273156525003|netral|0|negatif
+897|negatif| menurunkan harga aqua cgv rb hmmmmmmmmm|0.0010836426299045618|netral|0|negatif
+900|negatif| pilihan usaha peningkatan ekonomi sia pondasi ekonomi bangsa carut marut arah kebijakan rakyat pbh menguntungkan kapitalis|0.008739626855094208|netral|0|negatif
+902|positif| ragu kebijakan infrastruktur ekonomi pendidikan lainya ragu memilih mohon adakan program perjodohan pernikahan trans dimensi|0.0329497822159322|positif|2|positif
+904|netral| prabowosandi ambil gaji sepeser teilih bismillah|0.004403743953817064|netral|1|netral
+906|positif| singapore ci pas yurop asalnya kite from indonesia responnya langsung oohhh jokowi jokowi jokowi dikenal dihargai ln|-0.016643922629945657|netral|2|positif
+907|netral| bpn prabowosandi bangun juta rumah pulihkan ekonomi|0.0009069088690493114|netral|1|netral
+908|positif| era presiden jokowi ekonomi indonesia maju|0.011055604251075296|netral|2|positif
+910|netral| langsung kubu oposisi tau presiden jokowi dalm pemerintahanya kebijakan ambil beihak rakyat bbm harga|0.003897662443978368|netral|1|netral
+912|netral| membangun merevitalisasi pasar rakyat menjaga stabilitas harga ketersediaan stok bahan pokok menyerap produksi negeri meningkatkan ekspor mandat presiden jokowi|0.017482369137350188|netral|1|netral
+913|positif| pencapaian perekonomian indonesia dibandingkan negara berkembang pasalnya pertumbuhan ekonomi indonesia era pemerintahan jokowijusuf kalla dinilai|0.018091787008770382|netral|1|netral
+915|positif| jokowi fokus bangun infrastruktur kunci pemerataan ekonomi|0.009464150118358187|netral|2|positif
+916|negatif| gagal naekin ekonomi bilang gagal maaf alesan ngalor ngidul contoh prabowo salah bikin gaduh maaf susahnya nyebut huruf maaf ekonomi dibawah zaman sby|-0.03465635612249236|negatif|0|negatif
+918|netral| komitmen ambil gaji teilih dikemanakan gaji prabowosandi|0.010737304164221051|netral|1|netral
+919|netral| prabowo sandiaga janji ambil gaji presiden wapres|0.005875478010834796|netral|1|netral
+920|positif| suuzon mba hehe hargai hasil kerja jokowi membangun negri benci emang susah hargai kerja keras orang|-0.049195739911073656|negatif|2|positif
+921|negatif| penasaran angkat isu esport jokowi orang kejam banget isu coba pikir dampaknya ekonomi emak kesejahteraan zero let said those whistleblower youre fakiiingggg idiot bruh|-0.024223288876368772|netral|0|negatif
+922|negatif| urusin esprot jkw biar prabowo ngurusin ketahanan pangan rakyat indonesia sejarah mencatat presiden ri penduduk juta mikirin mobile legend ketimbang harga sembako mahal bahan pangan import dinegara kaya maritim|0.013511311664197063|netral|0|negatif
+2|netral| era jokowi ekonomi indonesia|0.002087043315259371|netral|1|netral
+4|negatif| negara ngutang bngun infrastruktur dipake masyarakat masyarakatnya ngeluh negara ngutang negara ngutang utang dibayar negara dapet penghasilan penghasilan negara pajak|-0.0015367766906094382|netral|0|negatif
+5|netral| bisikin jokowi mikirin peutaran duit golongan esports sekian penentu pertumbuhan perekonomian indonesia fundamental prabowo bhs sederhana mkan aspek fundamental ekonomi|0.025547446344014672|netral|0|negatif
+13|positif| jokowi pemerintah berupaya menjaga keseimbangan harga posisi normal petani produsen senang hasil kerjanya dihargai layak|0.013874532640805915|netral|2|positif
+14|netral| berat bahas ekonomi angka bahas mobil lejen|0.005064301359759243|netral|1|netral
+16|positif| sisi industri kreatif inovatif era industri global jokowi tergerak mengubah badan ekonomi kreatif bekraf kementerian coblos kerja|0.05522694328980906|positif|1|netral
+24|positif| kepercayaan mrk beengalaman memiliki wakil beengalaman dibidang ekonomi coblos|0.010640501754834813|netral|1|netral
+26|positif| keberhasilan dibidang infrastruktur jokowi berhasil memperbaiki ekonomi indonesia coblos|0.06512990445781824|positif|2|positif
+28|positif| memilih bersodakoh prabowo sandi menyumbangkan gaji negara fakir miskin yatim piatu masjid jadikan prabowo sandi presiden wakil presiden ri|-0.01769114852955421|netral|2|positif
+35|negatif| kelar hidupmu bisanya harga mahal turunkan solusi kubu prabowo bahlull|-0.0031473033288404056|netral|0|negatif
+42|netral| winter coming pidato jokowi imf bank dunia ekonomi dunia game thrones game throne presiden jokowi kekuatan kalahkan evil winter|-0.01030579726277157|netral|1|netral
+44|netral| jokowi raja salman sepakat tingkatkan kerja ekonomi|0.023319173896295144|netral|1|netral
+50|negatif| bijak antek orba pikirkan letjen pecatan bilang biang kerok ekonomi indonesia presiden jokowi jenderal sby gimana demokrat beralih dukungan jokowi coba|-0.006014458785751492|netral|0|negatif
+54|positif| penjelasannya cawapres komitmen terkait ekonomi umat disebutnya arus ekonomi indonesia membangun ekonomi|0.008922100742633861|netral|0|negatif
+56|negatif| jokowi naikkan tax ratio drastis guncang ekonomi|0.011468039003250273|netral|1|netral
+57|positif| pencapaian berhasil tercapai pertumbuhan ekonomi era pemerintahan jk meningkat|-0.02045828842152296|netral|1|netral
+62|negatif| pikirkan letjen pecatan bilang biang kerok ekonomi presiden jokowi jenderal sby jenderal soeharto bintang sampe dungu|0.007226912332475069|netral|0|negatif
+69|positif| jokowi pembangunan merevitalisasi pasar rakyat dasar utama pembangunan ekonomi berbasis kerakyatan kekuatan ekonomi indonesia stabil|0.014292168816085709|netral|2|positif
+73|negatif| leres salah aspek faktor ekonomi bertumbuh stabilitas politik negeri kepastian keadilan penegakan hukum pripun kabare|0.030543559308590037|positif|0|negatif
+74|negatif| pendidikannya tentara ayahnya ekonom legendaris indonesia kali ngerti makro mikro makro mikro pelajaran semester fakultas ekonomi cmiiw ketauan jae belajar ekonomi kacaw|0.017045899391919816|netral|0|negatif
+77|netral| jokowi bangunkan spbu setelag kabupaten puncak jaya papua harga ribu liter liter|0.014912601390462438|netral|1|netral
+84|netral| kepercayaan mrk beengalaman memiliki wakil beengalaman dibidang ekonomi|0.011970564474189165|netral|1|netral
+88|positif| pertumbuhan ekonomi pemerataan zaman jokowi pertumbuhan ekonomi pemerataan pembangunan|0.0018665256784450245|netral|2|positif
+92|netral| pilih pemimpin pencapaiannya pencapaian ekonomi pemerintahan jokowi|0.026828128977409882|netral|1|netral
+94|positif| pemerintah jokowi menyebut ekonomi indonesia tangan anakanak muda kreatif|0.03216832941348405|positif|1|netral
+95|positif| keberhasilan dibidang infrastruktur jokowi berhasil memperbaiki ekonomi indonesia|0.07327114251504553|positif|2|positif
+98|netral| jokowi bahas ekonomi makro mikro makanan sehari sandiaga fatal et keluarlah ispot sejenis revolusi futuristik otaknya antik|0.013032975216771988|netral|1|netral
+99|negatif| prabowosandi sepakat ekonomi indonesia salah arah|-0.024830017646519164|netral|1|netral
+100|negatif| prabowosandi sepakat ekonomi indonesia salah arah via|-0.024830017646519164|netral|1|netral
+105|negatif| emang prabowo seenggaknya prepare persona agamis kaya belajar ngaji gtgt menang counter jokowi rekrut ma bikin ketebak alurnya asli dah prabowo islami aslinya biar menang|0.004245946740689912|netral|0|negatif
+109|netral| indonesia maju pertumbuhan ekonomi pemerataan zaman jokowi pertumbuhan ekonomi pemerataan pembangunan|0.0054616637271343955|netral|2|positif
+110|positif| jokowi mendukung esport indonesia mobile legend pubg free fire prabowo memperdulikan sandang pangan harga harga turun pilihan skarang|0.009193024032702557|netral|2|positif
+111|netral| april pilih jokowikma pilih pemimpin pencapaiannya pencapaian ekonomi pemerintahan jokowi|0.024560037104996168|netral|1|netral
+122|positif| madura prabowo harga mati|0.017403779751769027|netral|2|positif
+123|positif| prabowo harga mati titik|0.018008618461446444|netral|1|netral
+125|netral| pencapaian berhasil tercapai pertumbuhan ekonomi era pemerintahan jk meningkat|-0.02045828842152296|netral|1|netral
+128|positif| pertumbuhan ekonomi pemerataan tau zaman pertumbuhan ekonomi pemerataan pembangunan|0.003029899103416388|netral|2|positif
+133|negatif| ngerti n nyambung ml emng ml nyambung tema debat djawab n dbahas rakyat utama kestabilan harga pangan n ketersediaannya petani sndr negara agraris sembrang import|0.006008201252195258|netral|0|negatif
+141|netral| sisi industri kreatif inovatif era industri global jokowi tergerak mengubah badan ekonomi kreatif bekraf kementerian|0.06266936455727909|positif|1|netral
+142|netral| bangunkan spbu setelag kabupaten puncak jaya papua harga ribu liter liter|0.016569557100513818|netral|1|netral
+148|positif| presiden jokowi raja salman sepakat tingkatkan kerja ekonomi|0.0222425124533759|netral|1|netral
+151|netral| pilih jokowi pingin indonesia maju pilih prabowo ikhlas uang pajak bayar koruptor diksh pensiunan|0.03385645396818636|positif|1|netral
+158|positif| jokowi bangunkan spbu setelag kabupaten puncak jaya papua harga ribu liter liter tanggal april menggandeng ulama|0.004277968867418487|netral|2|positif
+168|positif| teenting prabowo sandi berkomitmen menurunkan harga listrik pendukung jae setuju pendukung prabowo sandi setuju semoga prabowo pemimpin tepati janji kampanye kayak jae|0.036134445900813585|positif|2|positif
+189|netral| pertemuan jokowi menlu thailand mendorong keterlibatan asean membantu myanmar penyelesaian konflik rohingya khusus jokowi isu terkait harga karet dunia|-0.004593342955098077|netral|1|netral
+191|netral| presiden jokowi gelar pertemuan raja salman bahas kerja ekonomi|0.010411364398854976|netral|1|netral
+203|negatif| sah gundulmu jokowi rangka memperkuat hubungan ekonomi arab kecurangan lapor bawaslu anggota bawaslu dipilih seleksi dpr dpr partai partai pengusung oposisi|-0.000834769332777772|netral|0|negatif
+207|positif| harga harga murah pilih prabowo sandi hrga listrik murah pilih prabowo sandi lowongan kerja pilih prabowo sandi hentikan impor panen pilih prabowo sandi pokonya yesss yessss|0.030803064098437437|positif|1|netral
+213|negatif| digital swasembada pangan harga pangan murah dibutuhkan masyarakat dasar tau prioritas kayak periode|0.004058815085105907|netral|0|negatif
+220|netral| pencapaian berhasil tercapai pertumbuhan ekonomi era pemerintahan jk meningkat coblos juara|-0.01379247167148175|netral|1|netral
+223|positif| prabowo concern benahi tata kelola negara pertahanan negara harga bangsa mata dunia sandi fokus garap kekuatan ekonomi sinergikan pemerintah power rakyatnya ulama fokus garap iman akidah akhlaq umat|0.011519270873546195|netral|2|positif
+225|negatif| diserang ekonomi makro woooyyy liat pengangkut sembako tol dijalan mikir jam tinggal bayar terganti pelakunya|-0.00775764953971378|netral|0|negatif
+226|netral| gileee ratusan juta mata menonton menyaksikan pengakuan berani jujur kebijakan ekonomi salah jokowi slh orang koalosinya prabowo sandi beelukan erat pertanda mrk lg bericara didpn|0.01083590799434398|netral|2|positif
+232|negatif| njop ngeyel harga ditinggiin salah|-0.02069914782608696|netral|0|negatif
+234|negatif| sandi lulusan amerika ipk khatam banget makro mikro kalah sarjana kehutanan jokowi jurusan ekonomi kehutanan|0.01308357143813014|netral|0|negatif
+235|netral| prabowo memiliki jiwa sportif kesalahan kebijakan ekonomi indonesia puluhan sblm jokowi berkuasa sayang partai koalisinya suka bhk emosi kejujuran prabowo mengungkap fakta aneh|0.04470911442025425|positif|1|netral
+242|netral| dd mikirin mending mikirin mendasar ekonomi ketagihan game online bikin malas sgl suruh wirid masjid nongkrong warnet bergayalah sesuai isi kantong|0.004167227653524434|netral|0|negatif
+247|netral| pngetahuan tata kelola ekonomi negara kelasnya|0.010213771367113177|netral|1|netral
+254|netral| perintah bangunkan spbu setelag kabupaten puncak jaya papua harga ribu liter liter|0.016080825689527862|netral|1|netral
+266|positif| mengembangkan ekonomi syariah sesuai diamanatkan ma ruf amin aliansi kampung madura akma menangkan jokowi|0.02492372700096157|netral|2|positif
+267|netral| ekonomi pakai kg|0.010304548135120476|netral|1|netral
+274|netral| berita berita didesaku pemilik sawah cocok harga sawah dilewatin bangun jlnnya termsk sawah kakakku titik temu disambung jln tolnya sdhlah allah bicara jujur hubnya capres|0.00030839934925905977|netral|1|netral
+276|netral| maaf pake subsidi pake ygkg harga tertera nomor reg wajib tempel dinding toko biar masyarakat tau mangkanya abg knp harganya brubah ubah pk jokowi subsidinya alihkan|0.006578885276356707|netral|1|netral
+278|negatif| bego kampret yankayak gini presidem jokowi sby kampret otak maundi reparasi tetep goublok bbm ngikutin harga pasar naek naek turun turun bbm subsidi naek kampret ilmu cetek belagu|-0.0004081129335818487|netral|0|negatif
+279|positif| berdoa hati mjd presiden ri ekonomi buruk ponsel tutup ekonomi masyarakat carut marut presiden tolong perbaiki ekonomi masyarakat wslm dihati|-0.03025544574761404|negatif|2|positif
+284|netral| harga rb konsumen pemakai pribadi pedagang jatuhnya rb tabung|0.021262717055444004|netral|1|netral
+287|netral| pengalaman ekonomi malang merintang mendirikan koperasi baitul mal wa tamwil bmt sejenis koperasi syariah|-0.021455372446092226|netral|0|negatif
+288|netral| charles honoris jokowi bangun indonesia ekonomi kreatif|0.04277261010150359|positif|1|netral
+289|netral| presiden raja salman menggelar pertemuan bilateral istana pribadi raja alqasr alkhas minggu sore pertemuan selepas jamuan santap siang sepakat meningkatkan kerja bidang ekonomi foto berita bpmi|0.017261226625657884|netral|1|netral
+290|netral| fokus unicorn dunia digital contoh ecomerce memamg harga murah memutus mata rantai distribusi sehinga distributor menjual langsung barg masarakat dpt kebagaian keutungan sbgai pengecer|0.013876107949166641|netral|1|netral
+293|positif| listrik turun harga terjangkau pelayanan bpjs honorer tusuk prabowo sandi tps|0.03729145667864312|positif|2|positif
+297|negatif| pakai uang pajak atw uang pribadi anak bini diajak|0.026289743567757123|netral|0|negatif
+298|netral| samping toko pangkalan gas agen kmpung kuota batasin harga tertera nomor registrasi pangkalanya tbg agen sa mainkn harga penjual lg kuota trbatas|-0.0012554339254726694|netral|1|netral
+300|netral| jokowi raja salman sepakati kerja bidang ekonomi|0.006354926635738827|netral|1|netral
+307|netral| tnya sehat harga gas lpg e harga rb beli pangkalan agen spbu menyediakan lpg antri mlh desa makane pgn duitnya kerja keras|0.026447484801362275|netral|1|netral
+321|negatif| katrok tekhnologi digital meraih pendapatan ekonomi diperhatikan prabowo orang kuno taunya elus elus ekor kuda|0.005072312047954167|netral|0|negatif
+323|positif| semoga amanah ikhlas ekonomi pro rakyat peduli petani nelayan buruh pedagang masyarakat adil makmur sejahtera aman insyaallah prabowo subianto sandi aga memenangkan pilpres april amin|0.022829924061138727|netral|2|positif
+325|netral| rb bl agen langsung dapet rb gas rb agen konsumen orang jualan cr untung namane peutaran roda ekonomi|0.00023301703188370102|netral|0|negatif
+327|positif| permintaan tolong hapus denda telat bayar listrik air tlp pajak bpjs kebutuhan inti rakyat denda jujur wlwpun nilainya berat|0.005000738571516887|netral|2|positif
+331|positif| april marilah subuh berjamaah gaungkan shalawat doa semoga teilih presiden ri semoga beliau amanah rakyat mengembalikan kedaulatan indonesia ekonomi semoga adil makmur|0.03858435761710517|positif|2|positif
+332|positif| ps bilang didebat ekonomi indonesia salah salah pemimpin penggemar salahkan jokowi bosmu bilang salah jokowi mantap pilih|-0.02573863614107661|netral|2|positif
+334|positif| prabowo sandi ambil gaji teilih gajinya diserahkan fakir miskin dhuafa berjanji membersamai orang tua berjuang|-0.03437593792118862|negatif|1|netral
+335|netral| jokowi raja salman sepakat tingkatkan kerja ekonomi via|0.023319173896295144|netral|1|netral
+339|netral| jokowi mengimbangi serangan prabosan mikro sengaja menyeret prabosan visi makro dibidang ekonomi digital membahasnya sisi mikro sandi mengalami kesalahan fatal menyebut big data ektp|-0.008988294602193516|netral|1|netral
+343|netral| prabowo ekonomi indonesia salah arah presiden jokowi kader demokrat koalisi|-0.008217141978785605|netral|1|netral
+353|positif| ekonomi salah kebangkitan bangsa teruskan perjuagan prabowo sandi padang lawas sumattra utara rajuddin harahap prabowosandi a dukugan presiden wakil presiden amin|-0.0037423642957432994|netral|1|netral
+355|netral| presiden raja salman menggelar pertemuan bilateral istana pribadi raja alqasr alkhas minggu sore pertemuan presiden raja salman sepakat meningkatkan kerja bidang ekonomi foto berita biro pers setpres|0.014495622138379068|netral|1|netral
+357|netral| harga tiketnya turun|0.01635562840272985|netral|1|netral
+364|negatif| bikin puisi ekonomi persen kayak|0.023947650833617468|netral|0|negatif
+368|netral| meningkatkan tax ratio ekonomi terguncang ninu ninu|0.02289832746478873|netral|1|netral
+383|netral| era jokowi harga bbm papua harga jawa|0.02226628746396801|netral|1|netral
+385|negatif| trus bayar pajak dipikirin jokowi|-0.003714458730223621|netral|0|negatif
+388|positif| jt penggunaan game online pasar konsumen transaksi puluhan developer game berdiri rubuan lapangan kerjaada pajak masuk pajak subsidi pertalite motor mio kjp kip ngerti|0.0069598181910393506|netral|2|positif
+390|positif| masukan harga tolnya disubsidi ramai menikmati|0.03825461551537785|positif|0|negatif
+394|positif| pasangan nomor memperjuangkan nilai islam spirit transformasi perdamaian bidang pendidikan dakwah ekonomi kesehatan|0.017847828006350666|netral|2|positif
+396|netral| ciwiciwi harga skincare turun tusuk prabowo sandi|0.0031594072401868803|netral|1|netral
+398|netral| prabowo melanjutkan kerja ekonomi arab saudi|0.006304465948917144|netral|1|netral
+404|positif| terima kasih kekurangan menjabat insya allah disempurnakan kedepan negara fokus perbaiki ekonomi rakyat cicil bayar hutang|-0.01081941522397148|netral|2|positif
+405|negatif| mobile legend permainan game online jokowi merangkul gamers moba online dibahas kekurangan duit main moba sembako murah harga pangan murah bner sandi debat malam|0.016657262693678655|netral|0|negatif
+406|negatif| bego tau perusahaan fintech beli coin diamond tau iklan milih masang aplikasi milenial jaring konsumen tau pendapatan negara pajak internet perusahaan berlomba bikin games|0.006133091187189907|netral|0|negatif
+409|netral| presiden joko widodo jokowi terkendalinya hargaharga komoditas pangan inti tingkat inflasi|8.809004302362975e-05|netral|1|netral
+412|netral| presiden raja salman menggelar pertemuan bilateral istana pribadi raja minggu sore april pertemuan selepas jamuan santap siang presiden jokowi raja salman sepakat meningkatkan kerja bidang ekonomi|0.017460408391305974|netral|1|netral
+416|netral| prabowo ekonomi indonesia era jokowi salah arah|-0.030453859457671918|negatif|1|netral
+420|netral| sederet menteri kabinet kerja presiden wakil presiden jusuf kalla bidang ekonomi meraih penghargaan internasional kurun kabinet berjalan|0.011850402417110124|netral|2|positif
+425|netral| salah keberhasilan bbm harga titik wilayah target titik wilayah indonesia|0.04684333660272105|positif|1|netral
+427|netral| dilantik prabowo sandi menghapus pajak prabowo sandi pelayanan kesehatan pendidikan gratis prabowo sandi menurunkan hargaharga|0.0015399502861518071|netral|1|netral
+468|netral| jokowi ri masuk kekuatan ekonomi|0.01949672902762473|netral|1|netral
+477|negatif| ari narang prabowo sandi horang kayah setor pajak ratusan juta emang junjungan pinternya ngambil duit haji saking kebanyakan utang|0.0010731274126042278|netral|0|negatif
+486|positif| setuju harga partai demokrat memikirkan mega sisi jokowi kehidupan bangsa emosi|0.03082517033206648|positif|1|netral
+488|positif| nitijen paham ekonomi makro pengennya instan langsung dirasakan individu betapa beratnya presiden indonesia mbangun mikir dihujat ganti presiden nitijen emang ngehujat|0.07097476769436993|positif|2|positif
+501|netral| dewi dedi andalan pemerataan ekonomi jokowi kedepan|0.04589823889574003|positif|1|netral
+510|netral| jokowi naikkan tax ratio drastis guncang ekonomi|0.011468039003250273|netral|1|netral
+514|positif| jokowi ekonomi digital alhamdullilah prabowo mantap|0.020161514975931542|netral|0|negatif
+518|negatif| bloon jebakan ekonomi digital mobile legend alhamdullilah prabowo terjebak|-0.019561815336463225|netral|0|negatif
+521|positif| sodaqoh ikhlas memilih gaji dipakai menyantuni anak yatim faqir miskin sodaqoh vote bernilai sodaqoh|0.0036515347677322663|netral|2|positif
+524|negatif| pecatan ngerti ekonomi ngerti sawer wo|0.03359910420376666|positif|0|negatif
+529|negatif| sudi pilih jokowi kapok neg pilih berharap janji janjinya sesuai omongannya realitanya bikin kacau balau ekonomi negeri keluarga sepakat pilih prabowo sandi perubahan hilangnya kedholiman ketidakadilan|-0.019162283804945737|netral|1|netral
+537|positif| titipkan amanah kepadamu tetaplah perjuangkan ekonomi kerakyatan|0.022385251357770686|netral|2|positif
+542|netral| pasca dilantik presiden joko widodo jokowi membuang agenda utama reformasi ekonomi konektivitas wilayah produktivitas|0.020445874004077942|netral|1|netral
+543|netral| capres nasabah usaha mikro pesantren persen wanita program kemandirian ekonomi keluarga|0.004951509423453009|netral|1|netral
+545|positif| mahal kelassss masyaallah teilih prabowosandi janji ambil gaji|0.0054579803791559005|netral|2|positif
+548|netral| prabowo lakukan rangka pengembangan ekonomi digital pengembangan esport mobile legend|0.005584764637951446|netral|0|negatif
+551|netral| pemerintah jokowi bersemangat berjalannya pembangkit listrik memasok aliran listrik rumah tangga industri ekonomi indonesia|0.0164526546824018|netral|1|netral
+562|negatif| otakmu nalar sehat omongmu ngawur emang ketimpangan ekonomi akibat ditimbulkan|0.041196806665195616|positif|0|negatif
+567|positif| lanjutkan periode suka pmbngunan infrastruktur paham variabel pertumbuhan ekonomi|0.07737686525791351|positif|0|negatif
+568|netral| tetep dikoalisi prabowo harga|0.018682065217391304|netral|1|netral
+570|netral| cek fakta jokowi bangun ekonomi ri indonesiasentris|0.016315666413495168|netral|1|netral
+572|negatif| paham ilmu ekonomi variabel pertumbuhan ekonomi mending mingkem|0.12083260668386794|positif|0|negatif
+574|negatif| wowo kesalahan arah ekonomi mengakibatkan deindustrialisasi salah presidenpresiden jokowi ekonomi indonesia jokowi baikbaik ngehoaks menyalahkan presiden|-0.033826265431824015|negatif|0|negatif
+576|negatif| aduhhhh ekonomi diposting tuan nilai tukar rupiah neraca perdagangan indonesia forum internasional|-0.0030523085020101545|netral|0|negatif
+580|positif| semoga president teilih menurunkan harga tiket pesawat|0.03778998913874312|positif|2|positif
+585|positif| jokowi periode harga mati|0.024348224196213467|netral|2|positif
+608|negatif| janji pertumbuhan ekonomi meroket katamu janji stop import janji stop utang janji lambaikan tangan biar kebanyakan ngeles|-0.002267164308383841|netral|0|negatif
+613|netral| prabowo janji pertumbuhan ekonomi rizal ramli|0.0007066206764395898|netral|0|negatif
+617|positif| pertumbuhan ekonomi diimbangi pemerataan mencegah ketimpangan mewujudkan keadilan rakyat indonesia|0.026267443256333484|netral|2|positif
+622|negatif| codot dihargai rb murah harga rb rb dibayar jt kampanyenya prabowo ogah|0.0290298310561358|positif|0|negatif
+623|positif| dampak second round effect momen asian games efek pengganda perekonomian menyebabkan penciptaan lapangan kerja pertumbuhan ekonomi penambahan pendapatan masyarakat jokowi hebat|0.0023051486464947517|netral|2|positif
+627|netral| teipilh prabowosandi gajinya fakir miskin|-0.1110457142857143|negatif|1|netral
+628|netral| salah wacana memanfaatkan teknologi esport patut diacungi jempol wadah regulasi angin segar peutaran ekonomi pajak sektor dikawal anak muda kegiatan positif negara mewadahi misi|0.028513640531189325|positif|1|netral
+629|negatif| saham dijual aset berkurang menerima gaji hmmmmm korupsi|0.029935403361753862|positif|0|negatif
+632|negatif| penerimaan pajak bahasa kerennya tax ratio tax ratio sumber penerimaan pajak ditambah sumbernya tarifnya contohnya cukong konglomerat bayar pajak dipaksa bayar bilang kontradiksi ketauan paham|0.05013062718589331|positif|0|negatif
+638|negatif| pokonya ekonomi meroket hidup mobile legend|0.009748037404756408|netral|0|negatif
+639|negatif| lihat total program kualitas membahas respon wacana peutaran ekonomi dunia game esport menjadikan ekonomi terangkat kenal mia tegal|0.0066558707512414045|netral|0|negatif
+650|netral| pertumbuhan ekonomi rezim sby jokowi coba diliat trennya sd grafiknya turun dibalikkan jokowi cek inflasi sby vs jokowi|-0.04277117534079504|negatif|1|netral
+660|netral| total dampak asian games berkontribusi langsung produk domestik bruto pdb negara pertumbuhan ekonomi indonesia jokowi hebat indonesia maju|0.0033683467934275692|netral|2|positif
+681|netral| orang faham ekonomi membantu|0.01668902310945389|netral|1|netral
+685|negatif| nyerocos profesor sumitro joyohadikusumo ekonomi benteng orde orde karier militer prabowo beliau menantu harto semacamnya tetangga kamar kaget bilang sumitro keturunan tionghoa nonmuslim|0.005586948255259446|netral|0|negatif
+687|negatif| harga kalia rela nyuri maling rame instruksikan menghalalka|0.0614742804654011|positif|0|negatif
+695|positif| jokowi cepat merespon perubahan tuntutan jaman merangkul kalangan hasil kerjanya nyata sentuhan jokowi mengangkat harga bangsa dimata dunia memilih jokowi melawan khilafah preman brjubah menjual agama takuti rakyat|0.01616582878897313|netral|2|positif
+700|netral| dibukuny konsep prabowo impor hutang negeri joran meningkat rasio pajak menutup kran kebocoran apbn industrialisasi meningkatkn gaji pns penegak hukum mengurangi korupsi memperkuat kpk dsb|0.026128837435331537|netral|1|netral
+701|negatif| prabowo bilang presiden ngapain mbak polos banget pertmbuhan ekonomi meroket hebat|0.01788603888665705|netral|0|negatif
+706|negatif| m m m hhhhhh gini prestasi sandi membangkitkan ekonomi signifikan solusi prabowo mengentaskan pendidikan orang orang bodoh pemerintahan buruk sistem diubah solusi|-0.0043869401041719365|netral|1|netral
+710|positif| wajar iriana berkat istri pungam soksok beliau fokus memperbaiki ekonomi salah arah beuluh berhasil nyata|0.01028949730736742|netral|2|positif
+719|negatif| memahami apapun mengelola negara disekitarnya masukan ekonomi cawapres|0.018163345168242542|netral|2|positif
+724|negatif| bilang trans papua mrt karya jokowi heboh indonesia memprotes pernyataan orang bilang pembangunan ekonomi salah arah salah jokowi salah presiden diam indonesia krik krik krik sungguh sakti|-0.027881683748987498|negatif|0|negatif
+729|negatif| bicara pajak menaikkan pajak serba pajak pajak bayar sokan naikin pajak sehat prabowo|0.039048751732991216|positif|1|netral
+734|negatif| milih jokowi bleh tol pas lebaran lupa lwt tol bayar pembangunan tol pajak rakyat hasil ngutang bayar rakyat emang jokowi bayar mikir cma pengen memperjelas maksud klian menyerang|0.0028569732246566393|netral|0|negatif
+751|negatif| debat jebakannya unicorn jebak prabowo mobile legend please lg seputar ekonomi kerakyatan hobi banget orang main jebak jebakan respect|-0.0022223086626758184|netral|0|negatif
+765|positif| bahas harga pisang turun|0.023155760305806787|netral|2|positif
+767|negatif| pencabutan subsidi kmana larinya pembangunan infrastruktur hasil ngutang ekonomi ktanya meroket macet dipake korupsi partai pendukung pdip salut subsidi rakyat indonesia setara ekonominya|0.014448083967927947|netral|0|negatif
+770|netral| meneropong kondisi makro ekonomi indonesia era jokowi|0.06700892271076045|positif|1|netral
+772|negatif| milenial paham potensi bisnis dunia digitalisasi ekonomi kreatif era industri nothing pemerintahan jokowi infrastruktur arah|0.05228483699563143|positif|0|negatif
+773|negatif| ngikutin komunis sistem ekonomi komunis|-0.0149856767724994|netral|0|negatif
+775|negatif| jae pdnya ngajarin prabowosandi ekonomi makro pintar plongaplongonya jaesi jae laut digarami tuman|0.0030630565193350873|netral|0|negatif
+776|netral| pernyataan prabowo demokrat marah warta ekonomi|-0.02514148459130854|netral|1|netral
+783|positif| sepakat kubu mengalihkan menyerang pribadi kepemimpinan jokowi mngkin lupa infra ekonomi meerrka nikmati hasil kerja jokowi mentrinya indonesia timur masi jokowi|0.01079269110576972|netral|2|positif
+795|netral| prabowo nilai ekonomi ri salah arah presiden jokowi|-0.01828041164068048|netral|1|netral
+798|negatif| tetanggakuh janji prabowo presiden menurunkan harga pangan petani harga hasil panen murah rugi mending milih jokowi tetanggaku lulus smp mikirnya lumayan|0.01822802605625498|netral|0|negatif
+811|negatif| wowo kesalahan arah ekonomi mengakibatkan deindustrialisasi salah presiden indonesia era jokowi|-0.03516866802691218|negatif|0|negatif
+814|positif| ekonomi indonesia jokowi baikbaik ngehoaks menyalahkan presiden|-0.02227981861758788|netral|2|positif
+815|positif| jokowi mendorong ekonomi kreatif jangka memperbaiki ekonomi segampang penalaran|0.0422514508153706|positif|1|netral
+816|positif| mendorong ekonomi kreatif digital masyarakat booming jokowi ngomong maksud pemikiran sudut pandang kubu sebelah mohon maaf kebuka|0.015355086307818644|netral|2|positif
+819|positif| memilih prabowo sandi bersodaqoh gaji prabowo sandi disedekahkan fakir miskin mantapkan sebarkan|-0.028574185114402517|negatif|2|positif
+823|negatif| jalan bagus kmna gampang ekonomi smakin membaik bilang infrastuktur giliran jalanan jelek komen|-0.001658694814881842|netral|0|negatif
+824|netral| fadli zon prabowo ingatkan ekonomi indonesia beijak pasal uud|0.00390674612458806|netral|1|netral
+827|negatif| beda sebelah prabowo sandi ambil gaji presiden fakir miskin|-0.05119206578267825|negatif|0|negatif
+832|netral| kampanye akbar gbk pancasila nkri bhinneka tunggal ika uud final harga mati sehingg diganggu gugat|-0.021795925502641752|netral|1|netral
+836|negatif| tax amnesty kemarin prabowo sandiaga uno bayar pajak namanya paradise papers|-0.02120518089906336|netral|1|netral
+838|positif| malu akui kegagalan mmg janjijanji direalisasi rakyat memilih janji stop impor cabut subsidi buka lapangan kerja ekonomi persen mobil esemka hasilnya nol wajar rakyat pemimpin|0.005581112583644025|netral|2|positif
+850|positif| prabowo sandi gaji sumbangkan kaum duafa fakir miskin|-0.049687715123041216|negatif|1|netral
+851|netral| kaderkader partai demokrat walkout prabowo menyalahkan presidenpresiden jokowi bertanggung kesalahan kebijakan ekonomi|-0.01433172221031298|netral|1|netral
+857|negatif| maaf baoak menargetkan tumbahtumbuh pertumbuhan ekonomi janji jokowi terwujud|-0.010496288127295951|netral|0|negatif
+859|netral| syok ekonomi tax ratio kilat prabowo keliru|0.17141485275288093|positif|1|netral
+864|netral| coba ulang debatnya jokowi tau pandangan prabowo pengembangan ekonomi digital esport emang dibilang prioritas engga|-0.020084041140594925|netral|0|negatif
+867|negatif| boss ngomong kuasain sori bahasa bloon bumn data pengangguran ekonomi politik pasal karet ngerti diterapin uu delik aduan uu jalan ehh bilang otoriter dongok|-0.008031854428836159|netral|0|negatif
+869|netral| tenang pemilu debat terbuka jokowi prabowo dilarang disiarkan warta ekonomi|0.0021955405956348576|netral|1|netral
+873|positif| prabowo harta jiwa raga sandiaga gaji sedekahkan kali sejarah nkri|0.018218092448756846|netral|2|positif
+876|positif| mencoblos prabowo sandi pahala gaji prabowo sandi disumbangkan yatim miskin tusuk pahala mengalir|-0.02168525221629982|netral|2|positif
+878|negatif| buka mata beli saham indosat rugi trilliuanan jmn jokowi infrastruktur bbm harga indonesia banggain wowo cerai pecat gaji karyawan sndri dbyr menghina rakyat ujungnya sumbangan raja hoax|-0.015760988380107834|netral|0|negatif
+879|positif| bangga membangkitkan usaha ekonomi kerakyatan dialog wirausaha ketum penggerak pepes okoce lokasi muding denpasar titik fjakarta|-0.0014151572735953122|netral|2|positif
+880|negatif| horang kaya mah bebas butuh gaji butuh lahan jabatan gantinya|0.005785802392493653|netral|0|negatif
+881|positif| jokowi memerintah harga stabil terjangkau janji prabowosandi taruhan kku janji kenyataan|0.015300673480212346|netral|2|positif
+882|netral| jokowi pancasila harga mati|0.023205039669025363|netral|1|netral
+884|positif| senjata dipakai menskak mat apalg urusan pajak jokowi berusaha tetep didlm jalur gemes lihatnya|0.006199200753776235|netral|2|positif
+888|netral| pancasila nkri harga mati ganggu gugat|-0.033707827405923235|negatif|1|netral
+889|negatif| ekonomi digital prabowo mengerti|0.023629542585702896|netral|0|negatif
+890|netral| pengamat pertumbuhan jokowi laksanakan pemerataan keadilan ekonomi|0.05252357106307687|positif|2|positif
+896|negatif| ekonomi kehidupan buruh menunggu realisasi janji tgl februari dihadapan perwakilan istana berharap|0.02187355764593602|netral|0|negatif
+898|negatif| bajingan tengik disembah lengser jokowi dableg fokus ekonomi pertahanan indonesia mobile legend|-0.08954477343539564|negatif|0|negatif
+911|negatif| jam tangan harga rb ganti talinya rb gimana jokowi|0.0007659849136310503|netral|1|netral
+928|netral| jokowi diprediksi indonesia negara ekonomi terkuat nomor didunia diprediksi indonesia negara penebar berita hoax nomor didunia|-0.0047087397003259595|netral|1|netral
+940|netral| capres jokowi tegaskan pancasila harga mati|0.029307639186030607|positif|1|netral
+942|positif| sandi prabowo pembisnis gaji presiden ambil bisnis fanatik memfitnah orang percaya search google harta prabowo sandi|0.004562503897904092|netral|2|positif
+945|positif| prabowo sandi mengambil gajinya sumbangkan yatim duafa niat kesejahteraan rakyat semoga allah mudahkan langkah presiden wakil presiden ri berkahi allah aamiin|0.008594463467386102|netral|2|positif
+954|negatif| cagar alam kamojang turunkan statusnya ekonomi presiden membiarkan mempertahankan hmmm|-0.008560299656499511|netral|0|negatif
+963|netral| tenang sandiaga tanah suci prabowo lakukan warta ekonomi|0.024123671876081342|netral|1|netral
+969|netral| debat final pilpres analis politik ekonomi jokowi kritik kebijakannya|-0.01972029244533522|netral|1|netral
+976|negatif| mengeluh sandiaga sampe skrg dapet cashback ovo tokped jarang gratis ongkir tlg jokowi bukti ekonomi sulit nama bobby domisili gresik malang|-0.019657557131929636|netral|0|negatif
+982|negatif| mengatasi cad membangun industri nasional murni milik entrepreneur indonesia membangun kedaulatan pangan energi ekonomi|0.023694396323681786|netral|0|negatif
+986|netral| syamsuddin jokowi pencapaian ekonomi diukur contoh sandiaga nurjanah|0.02049693808155794|netral|1|netral
+993|negatif| nanya seriusan liat debat semalam presiden jokowi ngerti ekonomi presiden|0.011448484948479198|netral|0|negatif
+1000|positif| ekonomi makro tamparan keras pelaku usaha|-0.012715945800558905|netral|1|netral
+1001|netral| jokowi temui raja salman warta ekonomi|0.013889770363217918|netral|1|netral
+1003|positif| berani mengganti bidang ekonomi hukum srek cawapres mengurangi kecepatan pemerintah tetep optimis|0.03394520453112653|positif|2|positif
+1004|netral| jokowi membantah pembangunan infrastruktur terencana matang menurutnya pembangunan infastruktur tahap pembangunan ekonomi makro|0.002343696584717922|netral|2|positif
+1006|netral| pengeloalan ekonomi makro agregat produksi sektor primer pertanian pertambangan perkebunan pengelolaan ekonomi makro semudah membalikkan tangan jokowi hotel sultan jakarta minggu|0.004046608573630002|netral|1|netral
+1007|netral| jokowi ekonomi diperhatikan pengelolaan ekonomi mikro ekonomi makro|0.035541535970141216|positif|1|netral
+1011|netral| calon presiden capres nomor urut joko widodo pendapat calon presiden nomor urut prabowo pengelolaan ekonomi indonesia salah arah|-0.004054119021880938|netral|1|netral
+1012|negatif| goblok game dimain anak pengaruhnya ekonomi langsung anak skrg suka main game menghilangkan niat kreatifitas aktifiktas ujungnya sdm periode kedepan jokowi fokus sdm|-0.03242929069215598|negatif|0|negatif
+1023|netral| jokowi mantabkan ekonomi prabowo salahkan|-0.0459037558685446|negatif|1|netral
+1027|negatif| ekonomi bgmn masyarakat tumbuh aplgi merata presiden hutang meningkat rakyat indonesia membayarnya merata rakyat kartu pra kerja tka china kerjaan please muak|-0.0004810280192754428|netral|0|negatif
+1032|positif| sabang merauke bhineka tunggal ika beragam indonesia nkri dijaga idiologi pancasila dirubah harga mati|6.775178130918092e-05|netral|2|positif
+1033|negatif| pilih jokowi dibegoin liat harga iya harga gaji gaji kerja ngabisin kopi pantry kantor heran|-0.017869469741416358|netral|0|negatif
+1035|netral| mahar sederhana jokowi iriana menikah desember solo mahar pernikahan jokowi iriana sederhana mahar alat salat alquran cincin kawin harga cincin kawin ribu|0.006547433423882333|netral|1|netral
+1042|positif| trimakasih trimakasih trimakasih prjuangan pelan alhmdllh masy ujung ind merasakan manfaat infrastruktur senang pajak bayar negara dipakai|0.024267476228291385|netral|2|positif
+1049|positif| dampak ekonomi langsung asian games meliputi tahap konstruksi operasional penyelenggaraan kedatangan pengunjung berkontribusi pertumbuhan pdb nilai ekonomi peningkatan output sektor penyerapan tenaga kerja peningkatan pendapatan riil jokowi hebat|0.008255816690495183|netral|2|positif
+1053|netral| bumn benteng ekonomi negara|-0.0009700442056692962|netral|1|netral
+1054|netral| jokowi tegaskan nkri bhineka tunggal ika harga mati|0.01824801404268387|netral|1|netral
+1056|netral| tenang prabowo didoain ulama warta ekonomi|0.02037297634778493|netral|1|netral
+1057|positif| aamiin allah berilah kesempatan memimpin indonesia berilah kesempatan membantu memperbaiki ekonomi indonesia aamiin|0.017285133981576176|netral|2|positif
+1059|negatif| sekarng timpang tidur kali rakyat teecah bela priode jaman sby rakyat adem adem ekonomi berjalan|0.002880771885020689|netral|0|negatif
+1060|positif| jujur akupun tau bedanya ekonomi makro ekonomi mikro sekua orang memperdebatkan salahnya sandiaga uno sanggah jokowi diem mudeng|-0.014344496667781863|netral|2|positif
+1063|negatif| bocor sandi oce bankrut keluhan orang dijadikan referensi ekonomi juta orang akal sehatnya hilang|-0.04352554630721744|negatif|0|negatif
+1064|positif| debat jokowi menasehati paslon pengelolaan ekonomi makro membuktikan jokowi menguasai ekonomi|0.019883615195591876|netral|1|netral
+1067|positif| merdeka harga bbm papua bikin jokowi melawan mafia jokowi nyinyir pade|-0.01118226481886307|netral|2|positif
+1068|negatif| antek asing pki ekonomi amburadul harga raja hutang plongaplongo sekolam berisik prabowo bilang salah jokowi klean prabowo prabowo|-0.015541657615204015|netral|0|negatif
+1074|negatif| ekonomi salah arah disalahkn wowo presiden presiden seblm jokowi pribadi buktinya wowo menyalahkn sby|-0.0038605034031740796|netral|0|negatif
+1075|netral| maksimal rakyat membayar pajak harga rendah coba pikir kali|0.008678937302789565|netral|1|netral
+1076|negatif| ucapan pernyataan bowo kesalahan orientasi ekonomi negeri presiden jokowi sungguh luka tersendiri demokrat|-0.00819583581540442|netral|1|netral
+1082|positif| nyo buka youtube dngerin lg ditanyain jokowi pembahasan e sport pokok utamanya adl ekonomi digital mobile legend salah contoh|-0.021317457766184968|netral|2|positif
+1086|positif| jokowi harga mati seprti nkri|0.017403779751769027|netral|2|positif
+1092|negatif| coba cek ktp tulisan ekonomi kaya miskin trus pekerjaan pengangguran alamat rumah asli kontrakan butuh kartu e ktp disempurnakan gampang ditipu polos bego|-0.02751557578024931|negatif|0|negatif
+1097|negatif| ngomong mudahnya janji ekonomi tumbuh diatas omongane sehat jok|0.026135009785624292|netral|0|negatif
+1098|negatif| seandainya prabowo presiden amit amit janjijanjinya terwujud ekonomi makan merosot nyalahin pemerintah jo sby|0.003097300638424188|netral|0|negatif
+1100|netral| jokowi pertumbuhan ekonomi disyukuri kufur nikmat|0.011912956611036392|netral|1|netral
+1101|positif| sah suara april jokowiamin harga mati nkri maju|0.011394523721021671|netral|2|positif
+1102|positif| capres bilang didebat ekonomi indonesia salah salah pemimpin penggemar salahkan jokowi bosmu bilang salah jokowi|-0.0385417347707921|negatif|2|positif
+1106|negatif| harga tiket pesawat menggila tolonglah rakyatmu|0.022741894277220363|netral|2|positif
+1109|positif| rakyat jelata rakyat kalangan bwh harga sembako kuasai pemerintah kuasai mafioso menguasai harga mhn trm ksh|0.015652430536679158|netral|2|positif
+1122|positif| basicnya pengusaha mencakup perusahaan uno paham ekonomi makro pengelolaan negara kasih contoh kesusahan ngakak dengernya|0.02844495298065507|positif|2|positif
+1126|positif| pancasila harga mati bravo presiden|0.021080250340004318|netral|2|positif
+1128|negatif| basicnya pengusaha menangani ekonomi makro jabawan uno sampe jokowi kesal|0.0048655569782330346|netral|2|positif
+1129|netral| ekonomi indonesia merosot prabowo|-0.01139655659710773|netral|1|netral
+1131|netral| ekonomi indonesia amburadul prabowo|0.006161971830985915|netral|1|netral
+1143|netral| post pengamat tanggapi positif pertumbuhan ekonomi era jokowi capai target|0.031949479023819394|positif|1|netral
+1144|negatif| prabowo lupa ekonomi indonesia hancur suharto menjajah indonesia dilengser rakyat prabowo menantu suharto|-0.00432647657380614|netral|0|negatif
+1148|negatif| dengar perdebatan presiden ri malam menyebut mobile legend game upgrade level tau tujuan debat bahas bangsa ekonomi terkait uang nilai ekonomis negara pembuat aplikasi game|0.017693905956954095|netral|0|negatif
+1151|netral| jk berusaha keras berjuang keras rangka mengembalikan watak asli pembangunan negara indonesia bertumpu prtmbuhan ekonomi sjtp bertumpu pemerataan prtmbuhan ekonomi jokowi memaparkan visimisi debat|-0.009641647863581623|netral|1|netral
+1163|positif| prabowo sandi kaya gaji tunjangan setahun apanya dibandingkan penghasilan usaha teko dituang ngeluarin isi dalamnya pikiran negatif negatif gini|-0.032290520789859826|negatif|2|positif
+1165|netral| skak mat prabowo sandi amburadul ekonomi macro micro memangnya nkri dihuni segelintir orang|0.00181483812502012|netral|1|netral
+1169|netral| ekonom csis fajar hirawan faktor eksternal menyebabkan pertumbuhan ekonomi jangka sulit dicapai|0.017126594925046233|netral|1|netral
+1178|netral| jokowi vs sandi debat ekonomi makro mikro pahami|-0.015146024348366538|netral|1|netral
+1181|netral| prabowo ekonomi ri salah arah salah presidenpresiden jokowi via|-0.047403367364905656|negatif|1|netral
+1184|netral| debat terbuka sandi dinilai kuasai ekonomi jokowi paksa bicara digital|0.016136373373713698|netral|1|netral
+1185|positif| sejujurnya setuju gimana debat kemarin debat capres tonton menurutku jokowi ngomongnya e e ngerti teori ekonomi mikro makro penanganannya dsb bangga|0.01281419108073703|netral|1|netral
+1186|netral| detikdetik prabowo celingak celinguk paham ekonomi makro mikro simak|0.07632622476857379|positif|0|negatif
+1187|netral| wowo debat orientasi ekonomi indonesia jalur akibat ulah presiden|-0.013709517609239294|netral|1|netral
+1195|negatif| ps bolakbalik menyinggung deindustrialisasi anehnya menyalahkan salah arahnya pembangunan ekonomi indonesia terlepas andil presiden jokowi|-0.02338695540408432|netral|0|negatif
+1201|negatif| paslon bahas ekonomi makro global paslon anak bayi ngerti lihat belajar memahami pernyataan mantap pilih|0.0165125229960933|netral|2|positif
+1203|positif| mantap pilih paslon bahas ekonomi makro global paslon anak bayi ngerti lihat belajar memahami pernyataan|0.016512522996093303|netral|2|positif
+1206|netral| kabar menarik sepekan jokowi kena hoaks permainan harga tiket pesawat kabar|0.013522280993066715|netral|0|negatif
+1209|negatif| obrolan ngalor ngidul blas urusannya mobile legends ekonomi nasional mengada kejauhan banget bicara industri kreatif kreasi nilai ekonominya diekspor dijual jokowi semalem|0.06327770366054479|positif|0|negatif
+1210|negatif| heran prabowo bilang tingkatkan penerimaan pajak sandi bilang menghapus pajak pengusaha bertolak kebijakan coba dengar ulang debat pajak|-0.018713003686267098|netral|1|netral
+1213|positif| yup gini diskusinya enak tambahan ukuran ttp kualitasnya tingkat prioritasnya target pemerataan pembangunan pulau jawa mgkn mjd prior pemerintah menumbuhkan bibit pertumbuhan ekonomi|0.003551588859270761|netral|2|positif
+1222|negatif| logika beikir andre jeblok caleg dki lantas lapangan mikirnya selangkah perekonomian dunia serba sulit ngotot harga pupuk murah membunuh pabrikan disubsidi mikir keuangan negara|-0.004591023457017738|netral|1|netral
+1232|netral| cek harga jokowi perbaiki pasar|0.033419794706503345|positif|1|netral
+1235|positif| pemerataan pembangunan jokowi bukti jokowi kemajuan kawasan ekonomu kusus industri pariwisata barang kerajinan memperjuangkan ekonomi indonesia|0.019366079424610667|netral|2|positif
+1236|negatif| segmen debat ekonomi syariah kemarin berbobot jokowi bikin halal park gbk uno menyinggung indonesia salah pengimpor produk halal terbesar hello produk halal dasarnya produk diharamkan|-0.020713893753868364|netral|0|negatif
+1246|positif| pertumbuhan ekonomi diimbangi pemerataan jokowi|0.0008479448117275079|netral|2|positif
+1259|negatif| teori mabok prabowo sandi pangan murah petani makmur murah harga beli petani murah petani makmur makmur gerombolan ngibul|0.028372277989802155|positif|0|negatif
+1272|netral| menayalahkan bowo menyebut kondisi ekonomi indonesia salah arah kesalahan presidenpresiden jokowi|-0.03094145949101773|negatif|1|netral
+1274|netral| prabowo naikkan tax ratio jokowi shock ekonomi|0.01911339833875045|netral|1|netral
+1290|netral| indonesia negara ekonomi terkuat keempat dunia langkah menghadapi rintangan jokowi gelora karno gbk jakarta sabtu|-0.01892984493373654|netral|1|netral
+1292|negatif| pertumbuhan ekonomi angka menyaingi sby prabowo impor ekspor|0.020864983535435363|netral|0|negatif
+1295|netral| mengembangkan ekonomi desadesa menciptakan program dewidewi desa wisata dedidedi desa digital|0.009094818387861126|netral|1|netral
+1301|negatif| ekonomi tumbuh pemerataan eeeee ketimpangan piye boss|0.004533791898678896|netral|1|netral
+1311|netral| paslon beradu gagasan menjamin partisipasi peremuan kegiatan ekonomi masingmasing mengangkat ide dewidedi langkah pas|0.008713296736710119|netral|1|netral
+1313|negatif| ngomongin esports sadar harga build pc mahalnya ampun turunin dollar coba biar anak indo gampang pc bagus|0.06288176131572598|positif|0|negatif
+1315|netral| tim prabowo sandi tlg turunkan harga listrik gas lpg bbm air pdam pajak motor pupuk bibit unggul bangun perbaiki jalan jalan daerah daerah rusak indonesia|-0.021292945455314374|netral|1|netral
+1318|negatif| janji kampanye jokowi fatal kartu sembako murah pernyataan jokowi bilang duludulu harga sembako murah buktinya impor klaim tingkat konsumsi masyarakat terganggu like f bikin kartu|0.007487907800881434|netral|0|negatif
+1319|negatif| kecwa sbgai milenial prabowo lemah bicara digital esport pasar ekonomi berfikir konservatif dunia looo|-0.005973171769066667|netral|0|negatif
+1321|positif| smart bantu mengoreksi memperbaiki berjalan mengolok olok infrastruktur memadai kedepan industrialisasi tercipta smp indo ekonomi indonesia maju pesat berdampak indonesia|0.011405651508159123|netral|2|positif
+1322|positif| patahana oposisi data suka salah nyebut data rakyat simpati suka presiden bahas esport ekonomi makro berdampak mikro prabowo sandi hadir memperbaiki|-0.013250478443490471|netral|2|positif
+1323|negatif| pantes kampret orang goblok coba belajar pakar pakar ekonomi kasih pemaparan biar tau gimana berbisnis|-0.0125910890830138|netral|0|negatif
+1325|positif| akui janjijanji prabowo spesifik janji harga sembako murah mekanismenya gimana dikasih tau masyarakat masyarakat oportunis mikirnya kagak nyentuh kehidupan langsung|0.007904685308382457|netral|2|positif
+1326|positif| kemenangan indonesia kemenangan prabowo sandy indonesia makmur kedaulatan ekonomi pangan tps kedaulatan negara tps|0.035825475808371636|positif|2|positif
+1329|positif| isu murahan salah contoh minimnya kreativitas kubu hoax fitnah pecahbelah mudah mentah sayangnya harga partai sosmed berkomitmen clean n clear|-0.07904030624792882|negatif|2|positif
+1330|negatif| how repair that shit dude prabowo menurunkan harga sembako program liat program jokowi menurunkan harga sembako kartu sembako murah program konkret|0.0076618221986567685|netral|0|negatif
+1331|negatif| mengeluh abdillah presiden jokowi pacar tua penampilannya kebijakan jokowi beihak pacaran mudah ngoceh sandi mengatasi penuaan pacar harga kosmetik mahal|0.04802761846770327|positif|0|negatif
+1337|positif| saudara saudara sebangsa setanah air bangga indonesia negeri indah permai kaya ragam budaya adat istiadat dikagumi dunia harta ternilai harganya dinilai segunung emas|0.0393941777115012|positif|2|positif
+1343|netral| dukung prabowo dahlan iskan jokowi gagal penuhi janjinya bidang ekonomi cc|-0.005296650237202993|netral|1|netral
+1346|netral| prabowo ekonomi ri salah arah salah presidenpresiden jokowi|-0.047403367364905656|negatif|1|netral
+1348|positif| debat jokowi menguasai jalannya debat dimana beliau tegaskan lawanya ekonomi makro mikro|0.017531340016692203|netral|1|netral
+1351|negatif| presiden menganggap mainan bocah solusi ekonomi nasional habis jokowi|0.014107371769554997|netral|0|negatif
+1355|negatif| ngajarin ekonomi mikro makro raja bisnis lupa prabowo sandi pengusaha top|0.006348468356136835|netral|0|negatif
+1361|positif| esport lg buming hobi dipertandingkan dibanyak negara asian games asean games millenial banget bicara pemerataan kesejahteraan calon elite gaji karyawannya terkatung jokowi mempraktekkan|0.034842789924051584|positif|0|negatif
+1363|positif| garis jokowi ekonomi digital dalamnya bisnis games pembuat game pemain game lbh simplenya buka playstore ekonomi digital jokowi mnyebut salah satunya|-0.0027694032921197482|netral|0|negatif
+1365|negatif| santun pertumbuhan ekonomi|0.09056765311758506|positif|0|negatif
+1372|positif| yaelaah jokowi nurunin harga butuh perhitungan cermat matang asalan|0.026404711315237923|netral|1|netral
+1374|netral| debat malam capres nomor urut perekonomian indonesia salah arah ditandai mengalirnya kekayaan negeri temukan kesesuaian pernyataannya|0.0008663420743830753|netral|1|netral
+1376|negatif| namanya wowo menuding sby dibalik kesalahan ekonomi indonesia teguh dengerlah wowo|-0.09363334444862643|negatif|0|negatif
+1377|negatif| rakyat butuh fundamental ekonomi pangan sandang papan digital model mobile legend timeout pencitraan|0.02971240632614625|positif|0|negatif
+1378|netral| esports jokowi prabowo sandiaga idn times jokowi ekonomi digital esport prabowo|0.00754527162977867|netral|1|netral
+1385|negatif| sayang jokowi membahas ekonomi digital kegunaan multifungi ektp|0.03862609729933412|positif|0|negatif
+1388|negatif| prabowo harga petani harga konsumen murah menutupi kerugian negara uang darimana masak iya prinsip perdagangan beli mahal jual murah hoaks gaada namanya pedagang beli mahal jual murah hehe|0.012464041315957963|netral|0|negatif
+1391|positif| bukti keikhlasan mengabdi rakyat bangsa n negara rela mewakafkan jiwa raga harta pikiran pamrih jgnkan rela menerima gaji sbg presiden n wapres masyaaallah pemimpin ditunggu slm insyaaallah berkah aamiin|0.018725859224565645|netral|2|positif
+1395|negatif| jokowi pinter ngeles gagal bangun perekonomian pake alasan ekonomi makro pertumbuhan perekonomian terendah stuck pake alasan ekonomi makro emang jaman presiden ekonomi makro|-0.0015967741749297784|netral|0|negatif
+1399|negatif| strategi cebong gampang meneriaki orang hoax bilang orang pesimis prabowo sandi optimis ngeles ekonomi makro zaman sby ekonomi makro listrik murah harga sembako murah pembangunan|0.002072686035772528|netral|0|negatif
+1410|negatif| namanya wowo salah bowo pembangunan ekonomi indonesia salah arah terlepas andil presidenpresiden jokowi dengerlah wowo|-0.033951216383626734|negatif|0|negatif
+1413|positif| dutarakan sandi drasakan masyarakat jkw ngeles kebijakan beliau memerintah ekonomi mikro makro diutarakan sandi jkw nangkep|0.02690670999343864|netral|2|positif
+1414|netral| capres nomor urut prabowo subianto menyebut kesalahan ekonomi indonesia kesalahan calon presiden petahana jokowi salah presidenpresiden|-0.03333981435755943|negatif|1|netral
+1416|netral| dasar negara ideologi pancasaila nkri bhineka tunggal ika uud final harga mati diganggu gugat jokowi|-0.019721139177855427|netral|1|netral
+1421|positif| pengaruhnya gblk game peluang bisnis menciptakan lapangan kerja jepang game salah penggerak ekonominya negara ambil pajak lumayan|-0.013270738150217523|netral|0|negatif
+1422|netral| jokowi serang sandiaga ekonomi makro berdasarkan keluhan|-0.02508112489880084|netral|1|netral
+1423|negatif| tolol berlapis miraprojo ekonomi bangsa lari game hancur generasi klok model kayak gini indonesia ekonominya berkutet|-0.015442985743764872|netral|0|negatif
+1447|positif| rupiah gaji diambil negara rakyat miskin n dhuafa ragu|-0.028006937375627244|negatif|2|positif
+1450|netral| prabowo kebijakan ekonomi salah presiden objektif|0.010240054780516|netral|1|netral
+1455|negatif| bahas ekonomi lap pekerjaan mosok sekelas preaident amatiran emang gag ngerti gag kelas|-0.0005580782176445328|netral|0|negatif
+1477|negatif| syok ekonomi tax ratio kilat keliru|0.06815135091595323|positif|0|negatif
+1478|positif| setuju bats bilng memalukan ngerti ekonomi digital game interaktif dota namanya ngambil peluang ekonomi jkw ambil peluang kemajuan game bego bilang faedah|0.005278335746100328|netral|0|negatif
+1482|positif| setuju pemerintah kasih kemudahan kitanya gag usaha kreatif usaha beras organik lokal harganya mahal beras lancar|0.017439604339929242|netral|2|positif
+1488|positif| prabowo sandi ekonomi kerakyatan|0.01595363849765258|netral|1|netral
+1491|positif| pembangunan ekonomi pemerintah sektor maritim nelayan didukung penuh bank mikro tuan rumah negaranya april coblos jokowikma|-0.0028474188447104|netral|2|positif
+1497|netral| arah ekonomi indonesia salah presiden jokowi|-0.03036190329797601|negatif|1|netral
+1499|negatif| partainya menangkap tandatanda langit digituin berkali kali ngejogrog disitu segilintir orang membenci jokowi direndahkan harga|-0.006854813484373157|netral|0|negatif
+1507|negatif| uang bos hutang listrik subsidi bahan bakar subsidi pangan subsidi gaji asn menaikan pajak musti nunggu prabowo presiden jawabannya gelar profesor dimana|0.011972128450794121|netral|0|negatif
+1531|positif| fyi digital ekonomi paparkan cawapres lakukan era pemerintahan solusi tawarkan paslon jalani paparkan debat final mala|-0.013719782419331509|netral|2|positif
+1540|negatif| salah pemerintah hukumnya ketat contohin kaya singapore knp pemerintah gaji tugas pemerintah bertanggung rakyatnya sanggup pemimpin paham makna pemimpin|0.035543323821411066|positif|2|positif
+1547|negatif| kasian sadar indonesia kalaian tau tidk boneka pajang dtmbah pemimpin buktinya hancur ekonomi indonesia|0.0446956904395472|positif|0|negatif
+1551|negatif| goblok kau emang kebangetan otak dipakai mikir manfaat otak pantat sekelas petahana mikirin e sport ekonomi carut marut kebanyakan makan tai kau|-0.014113689957858912|netral|0|negatif
+1555|negatif| hidup jokowi lemah ilmu ekonomi biuktinya nilai rupiah menjunam expor merosot harga sandang pangan monopoli keturunan tionghoa|0.004579911355217273|netral|0|negatif
+1566|netral| prabowo debat menyebut ekonomi deindustrialisasi menimpa indonesia khusus prabowo menyebut kesalahan presidenpresiden jokowi|-0.0095217993847449|netral|1|netral
+1568|positif| lihat cuplikan debat semalam tau pemerataan ekonomi susu makan anak sd sma pagi salut|0.011656385596546723|netral|0|negatif
+1576|netral| era pemerintahan jokowi pemerataan ekonomi|-0.000603092620519776|netral|1|netral
+1579|positif| daniel menangkap prabowo kesalahan langkah perbaikan ekonomi nasional salah arah|-0.02719534171000849|netral|2|positif
+1583|positif| nyatnaya pemerinta era jokowi mendukung perkembangan ekonomi digital|0.007252019805241013|netral|2|positif
+1589|negatif| gagasan jokowi smlm didebat ekonomi digital bikin ekonomi real bikin game mobil legenda return esemka|0.026330573649040068|netral|0|negatif
+1590|netral| mengeluhkan ekonomi deindustrialisasi|-0.15249832327297114|negatif|1|netral
+1592|netral| asosiasi pengusaha bumiputera nusantara indonesia asprindo beranggota umkm dukung capres prabowo sandi program bebaskan pajak usaha keuntungan m|0.0063606580909359705|netral|1|netral
+1593|netral| jngn bahas prabowo kesalahan slh sumberdaya ekonomi tanah air udara frekwensi sesuai uud asli dikelola negara seluasnya rakyat|-0.0037087211207080494|netral|1|netral
+0|negatif| indonesia dihargai bangsa asing berita hoax buatan penguasa|-0.022599143199921158|netral|0|negatif
+1|netral| batuan langka tasbih jokowi hadiah habib luthfi seharga mercy|0.004833022003883038|netral|1|netral
+8|netral| iya bener aa mantap pilihan pemimpin solusi menyalahkan pemimpin dismash bowo koalisi mengantam tmn koalisi plg pilih pemimpin rajin ibadah wajib ngaji jumatan|0.014413168424878487|netral|2|positif
+9|negatif| prabowosandi sepakat ambil gaji negara susah|-0.035134787450437265|negatif|0|negatif
+11|positif| calon presiden jokowi program kartu pra kerja insentif kurun gaji cumacuma masyarakat beenghasilan|0.01307008901305442|netral|2|positif
+15|netral| mantulz mengisi tenang umroh kel tercinta istri anak ahirnya keluarga asset plg berharga sehat sll pakdeee|0.06222900520556837|positif|1|netral
+19|positif| prabowo tni puluhan ambil gajinya serupiah sandi wagub susah cari orang ambil gaji hasil kerja negara|-0.015683944019443532|netral|2|positif
+21|negatif| teilih prabowosandiaga janji ambil gaji orangorang superkaya rendah hatilah berkonotasi angkuh|-0.012184408904418841|netral|2|positif
+31|negatif| polri gakan ladenin pulisi pulisi gaji pake duit bukaan rakyat lapor tunggu ganti presiden|0.0073251096258010314|netral|0|negatif
+32|negatif| baguslah pendukung jokowi tebang pohon golok gergaji ranting pohon elektabilitas jokowi nyungseb lawan politiknya pendukung tolol dipelihara dasar ebong|-0.0061456880779310686|netral|0|negatif
+40|netral| orang negeri menghargai prestasi jokowi dinegaranya mencaci|-0.039141189856732365|negatif|1|netral
+46|negatif| anggota id layak digaji malu diutamakan isi perut gede minim torehan prestasi cc|-0.028756398625086717|negatif|0|negatif
+47|netral| gasah mengejek program jokowi program dipikirkan mateng program kis mari hargai menghujat|-0.012384872030542313|netral|1|netral
+48|netral| monggo silahkan hak hargai perubahan|0.0013998963303948958|netral|1|netral
+55|positif| menterinya berestasi pemimpinnya era dimana menterinya meraih penghargaan|0.02551935392395491|netral|2|positif
+60|positif| from sandiuno repost media app prabowosandi gagal fokus pembangunan besarbesaran berdampak langsung ekonomi kesejahteraan|0.003192721115955146|netral|2|positif
+61|negatif| alasan prabowosandi terima gaji menang negara susah|-0.0356306392816992|negatif|0|negatif
+64|positif| janji ambil gaji menang pilpres prabowo bukti tulus|0.05318913624389025|positif|2|positif
+67|positif| kasih tau menterinya berestasi pemimpinnya era dimana menterinya meraih penghargaan|0.02384724357959795|netral|2|positif
+80|netral| orang dihargai raja arab saudi pemimpin|-0.004074389901001211|netral|1|netral
+86|positif| mengharap ketulusan karyawan menuntut gaji|0.06243376405397779|positif|2|positif
+90|positif| ambil gaji serupiah teilih sbg presiden ri alm gus orang ihlas indonesia prabowo|0.002125700513205609|netral|2|positif
+91|netral| jokowima ruf bicara pengalaman prabowosandi janji ambil gaji|0.014072121344722608|netral|1|netral
+96|positif| jokowima ruf pemimpin indonesia penghargaan dianugerahkan bukti sosok pemimpin diakui integritasnya|0.03678454506802721|positif|2|positif
+107|netral| buka porov jateng ganjar kepala daerah contoh jokowi hargai atlet|0.0016739343683688007|netral|1|netral
+120|netral| demokrat prabowo hargai kontribusi presiden|0.0036764705882352936|netral|1|netral
+124|netral| jokowi pengusaha mebel solo mudzakir guru ngaji oleholeh muridnya sepulang jerman korek api zippo|0.003331341802331601|netral|1|netral
+126|netral| hargai sikap lgsg unfol tau mslah sblm aneh bikin tweet mention brsangkutan tujuan kontraproduktif lgsg diunfol|-0.004036654190060307|netral|1|netral
+140|negatif| bener jokowi penghargaan dimana negeri sampe segitu menang kasihan rakyat|0.003706475777960005|netral|0|negatif
+145|negatif| kpu pemerintah rezim berkuasa skarang salah prabowo memangnya gaji kpu presiden prabowo|-0.026548995268463396|netral|0|negatif
+146|negatif| denny menghinakan dihadapan publik hebat sayangnya tolol ilc ayam sayur nyentil agama otakmu belajar ngaji nyentil uah|-0.10285171008965044|negatif|0|negatif
+175|netral| skill anak bangsa dihargai negara april tusuk prabowo sandi|-0.009929451262714674|netral|1|netral
+183|netral| dirut pam jakpro diisi sandi pemenang tender penyedia susu perusahaan prabowo terungkap apalah arti uang recehan gaji pokok pejabat publik mending pencitraan diambil|0.06085863978534231|positif|0|negatif
+202|positif| pernyataan penutup gemilang kartu mengambil gaji kali tps tusuk prabowo sandi ditambah lg prabowo dana desa inisiatif beliau menjabat sebgai ketua hkti dipolitisasi|0.019287227750761988|netral|2|positif
+228|negatif| gagal priode debat fokus ekonomi bahas games mobile legend berfaedah yai harta kekayaan prabowo urusan dngan negara fokus kebangsaan lengser|0.011376849475964566|netral|0|negatif
+239|negatif| parah malaysia mba bayangkan jt beetumpu tps warga negara blh kritik blh marah liat pelaksana swperti gaji olh uang negara|-0.03283870333643662|negatif|0|negatif
+246|netral| janji ambil gaji teilih prabowosandi ikuti jejak presiden terkenal|0.0037841557658025906|netral|1|netral
+252|netral| prabowo sandi berniat ambil gaji menjabat gayanya donald trump gakmau digaji tajir|-0.015734905073076885|netral|1|netral
+255|netral| cc kekurangan danakah tau plisss dibiarkan pendukung jokowiamin peduli hargai suara|-0.021502359465333114|netral|0|negatif
+258|negatif| jokowi merakyat dibilang pencitraan jokowi dibilang akting jokowi sholat dicela prabowo sholat ngaji wudhu salah melek ajesih udeh ketaker otak astaga|-0.015310821551827222|netral|0|negatif
+262|negatif| sampah id gajih mnang dngn|-0.034677419354838715|negatif|1|netral
+265|negatif| saiki pns podo turu lemes soale kerjoe bener diawasi mangkane nangis dukung prabowo ben iso turu gaji gede fakkk pahlawan jasa|0.0052160260416733925|netral|0|negatif
+270|netral| janji ambil gaji prabowosandi persis donald trump|0.03385592131600905|positif|1|netral
+283|negatif| kualitas obama wowo kayak langit comberan obama bermasalah karier wowo pecat trus gaji karyawan dibayar wowo lurah pinter jokowi pejabat beengalaman presiden bangun pret|0.003204842755800413|netral|0|negatif
+286|netral| sodaqohkan gaji|0.0133399209486166|netral|0|negatif
+296|negatif| berharap prabowo memahami menghargai koalisi surat kesepakatan menjadikan cawapres diingkari rakyat kawan politik kepentingan|0.013283875851443269|netral|2|positif
+305|netral| kekompakan persatuan menghargai menghormati melengkapi bangsa beikir maju kedepan|0.041350562164694266|positif|1|netral
+306|negatif| lahh games beli mobil mewah beli rumah pendapatan dapet penghargaan kasih makan orng rumah lw bilang berbobot lw hidup jaman soeharto orbaaaa hiduppp cendana|0.018422524027634925|netral|0|negatif
+312|netral| kondisi bumn goyah prabowo subianto badan usaha milik negara bumn benteng perekonomian nasional goyah dikutip|-0.01954759632644676|netral|1|netral
+316|negatif| dipikirnya pengembangan esport main aplikasi smartphone mulainya main aplikasi manfaatnya pengangguran digaji baca buka wawasan mpermalukan gen z|-0.02663934040296235|netral|0|negatif
+319|netral| prabowo sandi jokowi semenjak walikota gaji beliau kasihkan warga solo membutuhkan|0.005920111146411055|netral|1|netral
+320|positif| prabowosandi pasangan harmonis mengerti posisinya masingmasing pencintraan kepurapuraan menghargai beda pasangan goal getter boneka|0.02732318641305732|netral|2|positif
+330|positif| state menaikan gaji tunjangan prabowo berjanji menaikan|0.017618439833113744|netral|0|negatif
+333|negatif| yuuk amal hadiahnya mencoblos prabowosandi presidenwapres digaji gila|-0.030778697109342276|negatif|0|negatif
+337|positif| rakyat indonesia bangga jokowi dihargai raja arab saudi terima kasih|0.006548235200697537|netral|2|positif
+380|negatif| gaji karyawan belom dibayar prabowo dibayar pake|0.012317550835754084|netral|0|negatif
+384|netral| kalimat penutup debat mengambil gaji serupiah diinfaqkan kaum du afa anak yatim|-0.00330362173166491|netral|1|netral
+399|positif| dasar ego menghargai wakilnya lihat prabowo sandi melengkapi|0.031013844940237408|positif|2|positif
+408|positif| mencoblos prabowo sandi membantu beramal beliau gajinnya kaum dhuafa anak yatim membutuhkan|0.0372105998103064|positif|2|positif
+414|positif| bersedekah mencoblos beramal gaji anak yatim dhuafa bersedekah|0.14310215924410566|positif|2|positif
+421|netral| mohon bilang pangeran muhammad bin salman tolong direalisasikan beli biar kesusahan bayar gaji beli pemainnya|-0.024465900679002117|netral|1|netral
+422|positif| hahahaha tema debat perekonomian pikir segi pertanian jual beli sembako hubungannya kondisi perekonomian negara negara agraris paham maksudnya cari maksud negara agraris debat|0.02345629863408249|netral|1|netral
+431|netral| jalannya debat jokowi sandiaga uno ibuibu mengeluh hargaharga|0.0024266444166319025|netral|1|netral
+432|netral| teilih prabowosandi takkan ambil gaji negara segini gaji presiden wapres manado|0.0037130115644716244|netral|1|netral
+435|positif| prabowosandi paslon pemaparan visi misi pro rakyat hubungan nyapun harmonis dwi tunggal menyumbangkan gajinya maklum tajir|0.015888070012471413|netral|2|positif
+440|positif| maksud sombong menghidupi keluarga kartu pabowosandi melanjutkan janji pilih saudara ekonominya beruntung terbantu kartu|0.024798859931841385|netral|2|positif
+443|positif| setuju macro ekonominya jokowi jago rancangan ditulis ahli ahli merancang pembangunan indonesia jokowi memahami|0.015974252397899572|netral|1|netral
+445|positif| bagus berharga jokowi|0.0934044328300426|positif|2|positif
+446|negatif| infrastruktur bagus roda perekonomian jalan cuman nguntungin asing aseng pilih pemimpin pro rakyat pribumi yaaa|0.010436354766270566|netral|2|positif
+461|positif| semoga tol trans sumatra perekonomian indonesia lancar maju|0.027471371822132686|positif|2|positif
+465|positif| gajinya dibayar tusuk prabowo sandi veool juara liga tusuk prabowo sandi|-0.0005223114680946002|netral|2|positif
+467|positif| mahal harganya gabisa diturunin missqueen pengen jalan tol pake mobil pribadi bilang kerja biar missqueen nyari kerja kaya nyari jodoh gampang tcoy|0.023111889441047057|netral|2|positif
+469|netral| prabowo sandi pengusaha digaji menggaji|-0.035395833333333335|negatif|0|negatif
+470|netral| tolong lihat dampak buruknya bing manfaat mudharatnya pahami membenarkan segi keekonomiannya|-0.05087968102107119|negatif|2|positif
+471|positif| ucapan menyumbangkan gajinya teilih memantapkan menentukan pilihan|0.0261883298992674|netral|2|positif
+472|netral| prabowosandi ambil gaji sepeser teilih|0.005284492744580477|netral|1|netral
+476|negatif| tolong bedakan startup monetizing hobi monetize startup nilai keekonomian hobi segelintir orang melakukannya kebutuhan allah seh bedanya lebar|0.005416901680624228|netral|0|negatif
+481|negatif| percya gaji dsumbangkan presiden bearti fix orang dungu|-0.003913480438498793|netral|0|negatif
+490|netral| bangsa bangsa menghargai budayanya indonesia nusantara|-0.008673469387755102|netral|1|netral
+493|negatif| dampaknya ekonominya gimana otak otak plonga plongo|0.002468729427254773|netral|0|negatif
+553|netral| kartu jokowi jurus jitu program kesejahteraan peningkatan ekonomi indonesia|0.028920449171484036|positif|1|netral
+554|negatif| buanyak beeng nyinyirin janji ambil gaji miris liat kelakuan orang jempolnya loncer gini tau nyinyirin orang shodaqoh ciri munafiqun lihat tawbah|-0.001364688618374289|netral|0|negatif
+560|positif| setuju tweet perkataan salah kena tuntut menghargai pakai sopan santun berbicara|0.0309537072686456|positif|2|positif
+561|positif| ari percaya prabowo sandiaga ngambil gaji gajinya cuman juta rupiah notabene cuman recehan diimingimingi bikin goyah berubah haluan kubu|-0.008294180966922141|netral|2|positif
+563|negatif| asn dinaikin prabowo gaji honorer dijadiin asn serius sakit hati ma janji prabowo|-0.02152009470848972|netral|2|positif
+584|negatif| ohh prabowo ikuti karyawannya mengambil gajinya|0.009257425742574257|netral|1|netral
+587|negatif| hadeh susah otaknya ketinggal jaman batu jokowi melek digital onlen onlen bayar gaji pegawai ngurus perusahaan gmb ngurus negara|-0.01962288534302773|netral|0|negatif
+596|netral| paguyuban suamisuami gaji paspasan nuntut beliin tas hermes|0.0027835277289499642|netral|0|negatif
+600|negatif| ambil gaji makan hasil gaji memakan tubuh|0.007433134923097844|netral|0|negatif
+606|negatif| mestinya liat kesana mukanya cling fasionable happy susah mrk ekonominya sederhana mrk dtg bahagia bangga bayar cebong makmur lahir bathin|-0.008468475050832999|netral|0|negatif
+607|positif| oohh baiklah pemirsah beda judul diambil cash transfer judulnyaaaaa gajian|0.03736802944862155|positif|2|positif
+609|netral| korsel main game starcraft sampe bener pro bener mainnya negaranya maju militernya kuat ekonominya kuat|0.00831881757178871|netral|1|netral
+621|positif| pilih sby jk dihargai capres pilih menang periode demokrat aman pemilu world|0.011551732681041626|netral|2|positif
+624|netral| prabowo sandi menang berjanji mengambil gajinya|0.012939605277342878|netral|1|netral
+635|positif| hahahaha sumbang gaji om dana operasional presiden wapres berani kagak dana operasional mknya knp beli sabun m sepeda sembako dana operasional rakyat|-2.8452567327189477e-05|netral|2|positif
+642|positif| gaji buta mending laporkan prabowo izin allah beliau presiden gantiin|0.02234374783580033|netral|2|positif
+646|positif| data keliatan zaman jokowi infrastruktur nambah dimana dana desa triliunan desa bergerak ekonominya gila keren emang indonesia zaman jokowi keren pastinya periode|-0.005552846347544986|netral|2|positif
+668|netral| gaji terima insentif kegiatan klarifikasi kpk sistem pengujian lhkpn lakukan kpk|0.019227755464775627|netral|1|netral
+669|positif| pakdeku juarakkk presiden menghargai driver lahh trus cs rese sapa knp suka meremehkann driver smua cs bgtu|-0.006740196078431372|netral|2|positif
+679|positif| kritik prabowo hargai pemimpin pendahulu|-0.020053854875283446|netral|2|positif
+689|positif| kadang bingung bersyukur infrastruktur jembatan mempermudah kegiatan perekonomian timur indonesia preaiden menang bangun jawa selesai dpt dukung jokowi menjalan pembangunan keadilan rakyat|-0.00195665297903833|netral|2|positif
+697|netral| jumlh buku sale brap harganya tolong|0.02974668758135033|positif|2|positif
+703|negatif| jokowi ikutan mewakafkan negara heleh wakaf ambil gaji ambil gaji kampanye gaji negara|0.01701190207488279|netral|0|negatif
+705|positif| best quote day mencoblos prabowo sandi berinfaq gaji disumbangkan kaum dhuafa anak yatim|-0.0007658457041426037|netral|2|positif
+708|negatif| kayak tentara mbak zaman firaun tentara digaji dikasih kekuasaan kelola perang dipakai budak pasukan berani mati profesi pekerjaannya budak dunia berkembang|0.010250539483109071|netral|0|negatif
+720|negatif| edunnn sekelas menterinya sekelas pejabatnya pkb bisanya nyebar hoax id digaji rakyat ngapain temen nyebar hoax dibiarkan|-0.0031149617234776193|netral|0|negatif
+723|positif| prabowo tau ambil gaji anggota info purna beda orang beda dgr prabowo jujur|0.015567886672232988|netral|2|positif
+727|positif| beramal pilih gaji ri disedekahkan allah mahakaya pemilihnya kebagian berkahnya|0.030257989554909995|positif|2|positif
+736|positif| gestur alami pencitraan nyontek menandakan ps menghargai rakyat mengamanahkan kepercayaan mrk sandi mengajak pilihan ragu mencoblos|0.015343500582316972|netral|2|positif
+737|negatif| gaji disumbang kerakyat jaman purba|-0.003525971919060823|netral|2|positif
+739|positif| bisnis hardware esport pengekspor hardware dukung user pengaruh ekonomian seujung jari|-0.0025000000000000005|netral|2|positif
+740|netral| ambil gaji menang pilpres prabowosandi ikuti sederet presiden terkenal|0.001776493562644223|netral|1|netral
+743|negatif| saksi menghalangi ngejelasin menentukan tidaknya panitianya shi pikir panitianya digaji digaji|-0.03919705797866421|negatif|0|negatif
+744|netral| bowo semlm debat salah kelola perekonomian presiden salah jokowi bowo|-0.03471942453066333|negatif|1|netral
+748|negatif| bhkan kalah cina ekonomi dgan korut persenjataan arttinya sehebat pemimpin negara orang miskin hilangkan|-0.027920075329632|negatif|0|negatif
+759|positif| jokowi sepakbola indonesia tujuan indonesia dihargai negara|0.0040061458838751415|netral|2|positif
+766|negatif| membedakan uang rakyat gaji dimakan anak istrinya syahwat berkuasa|0.020151534852677302|netral|0|negatif
+778|netral| refolusi mental apaaaa tolong jelasinnnnnnn sekolah penghasilannya|0.011356333417835237|netral|0|negatif
+781|positif| gusdur dukung prabowo fatwah gusdur presiden paking ikhlas insya allah terbikti beliau kalah berkali beliau ikhlas melanjutkn perjuangan tdi mlm dengar terima gaji|-0.003398295911364701|netral|2|positif
+785|negatif| akui perekonomian indonesia salah arah prabowo menyalahkan menawarkan solusi uud psl simpati mengadu domba rakyat butuh solusi pencitraan|-0.030936443226740367|negatif|0|negatif
+789|positif| presiden prabowo wakil presiden sandiaga uno mengiklash gajinya negara rakyat best best|0.0048788214780861846|netral|2|positif
+796|netral| unk makan gaji tersirat benak makan gaji bos pekerja menggaji orang gaji|0.00983434123134676|netral|0|negatif
+806|netral| prabowosandi tolak terima gaji teilih besaran gajinya|0.014992538975601126|netral|1|netral
+817|positif| memilih coblos infaq gajinya prabowosandi infaqkan kaum dhuafa anak yatim indonesia|-0.0013157521997309728|netral|2|positif
+820|negatif| kampret mah digaji|-0.0734843295973433|negatif|0|negatif
+825|positif| komentarnya bagus alangkah indshnya bilang jokowi lawan penantang gosipan warung aspirasi masyarakat indahnya menghargai|0.06287643330923817|positif|2|positif
+828|negatif| wkwkwkk uang gaji ln habis indonesia|0.0027050876247344093|netral|0|negatif
+830|netral| diutarakan jokowi kemaren esports berkontribusi perekonomian indonesia gamenya produksi gamedev lokal tingginya antusiasme potensi dibina pemerintah olahraga|-0.0016261357871347516|netral|1|netral
+831|netral| sby singapur video nyebar video lawas apapun prabowo menyalahkan pemerintahan akam coba perbaiki gaji disumbangkan tunjangan problem niat sapa tunjangannya disumbangkan|-0.015184023953084762|netral|1|netral
+837|positif| prabowosandi ambil gaji sepeser teilih orang dunianya tinggal fokus panggilan pertiwi sbg sikap patriotik nasionalis keren salah alasan|-0.005225125400147415|netral|2|positif
+843|positif| komitmen prabowosandi gajinya kaum dhuafa alhamdulillah subhanallah sejarah presiden wapres indonesia cc|0.048031941654064415|positif|2|positif
+844|netral| prabowosandi mengambil gaji teilih pilpres|0.006944879270535749|netral|1|netral
+847|negatif| mgkin tipe orang dokrin unk menghasilkan uang pekerja makan gaji akui pola pikir mayoritasnya jdi babu pekerja asing|0.009274406011317165|netral|0|negatif
+849|negatif| kepres jokowi tgl april libur nasional tolong lindungi hak mencoblos kerja suruh masuk krj april masuk krj potong gaji tindak pengusaha taat kepres jokowi|0.029363508556198382|positif|2|positif
+856|negatif| jokowi terhormat april libur nasional kepres kerja masuk kerja masuk kerja april potong gaji tolonglah tindak pengusaha pengusaha taat kepres tolong lindungi hak|0.057711275673212874|positif|2|positif
+860|netral| video janji prabowosandi ambil gaji menang|-7.379873363653687e-05|netral|1|netral
+861|negatif| dermawan tujukin tiganya cina aseng dibanggakan anti aseng pengusaha sukses kredit macet beda prabowo sandi presiden gajinya diderma|0.040013935257224416|positif|0|negatif
+863|netral| tkn wo demokrat prabowo inti orba merusak cnn indonesia tkn menanggapi pernyataan prabowo menyalahkan presiden jokowi perekonomian indonesia pernyataan berujung walk out petinggi demokrat|-0.04699232439932555|negatif|1|netral
+883|positif| salah jokowi simple umr jakarta kerja jakarta gede cari gede emang gaji jt beresin rumah kagak temen pns golongan gajinya jt|0.009735858765140305|netral|2|positif
+885|positif| apapun hasilnya april mari hargai keputusan jokowi menjabat prabowo presiden ri jaga kedamaian nkri|0.008238525738533776|netral|2|positif
+886|positif| kayanya negri berjuta budayanya negara iri beragamnya budaya indonesia salah orang menghargai budaya melestarikanya dijadikan destinasi wisata daeraah|-0.004184663379981154|netral|2|positif
+887|positif| perbedaan indonesia menghargai lakukan jokowi|0.034995670995671|positif|2|positif
+893|positif| teana teesona chemistry lekat babang sandi muda dihargai kma sepuh diuwongke dim ulama siangnya beliau panggung|0.013803438186032087|netral|2|positif
+894|positif| uno prabowo komitmen gaji ambil hak semoga amanah lupa salam jari salam jak mania|0.05128176350818587|positif|2|positif
+903|netral| hak penuh pejabat gajinya boss tunjangan peruntukannya dipakai sembarangan|0.016333880059826462|netral|1|netral
+926|negatif| gaji tunjangan struktur gaji pejabat indonesia ajaib minim banget tunggangan fasilitas bejibun wan gabener berani melepas tunjangan rakyat|0.008948274282832144|netral|0|negatif
+929|positif| coblos prabowo sandi pahala sedekah gaji prabowo sandi biberikan kwpada anak yatim dhuafa|0.004542567802789224|netral|2|positif
+933|positif| teman sejati amal bilang memilih prabowo sandi amal gaji beliau amal|0.02771804650227438|positif|2|positif
+949|positif| langsung om wowo mengapresiasi perekonomian negara dibawah kepemimpinan jokowi terima kasih om jokowi|-0.0015570960226996193|netral|2|positif
+950|positif| om wowo kesalahan jokowi kesalahan pemimpinpemimpin mengelola perekonomian negara alhamdulillah|0.004344292712387014|netral|2|positif
+956|netral| prabowosandi ambil gaji netizen subhanallah pemimpin sejati via|0.02534880677091025|netral|1|netral
+988|positif| bismillah rabu april mencoblos prabowo sandi samahalnya beramal gaji beliau disumbangkan dhuafa|0.03649608250378178|positif|2|positif
+994|netral| silahkan pilih prabowo sandi ambil gaji sepeser teilih|0.01542407482470769|netral|1|netral
+1009|negatif| prabowo emang prestasi pake logika mikir beda ma pendukung walkot solo dah dp penghargaan dunia masuk tookoh muslim beengaruh dunia wowo|0.017827094324244296|netral|0|negatif
+1024|negatif| paradoks tuduh prabowo pro radikal tuduh prabowo hargai ijtimak ulama hadewww|0.0254147236757574|netral|0|negatif
+1030|netral| memangnya jokowi ambil walikota solo jokowi ambil gajih sumbangkan|0.0280213777733544|positif|1|netral
+1038|negatif| gaji prbwo sandi jt kaum duafa uang tilep ratusan milyar masuk kantong pribadi hadeh miris|0.011666661365079458|netral|0|negatif
+1045|netral| prabowo salahkan presiden jokowi hargai kontribusi sby|-0.0428921568627451|negatif|1|netral
+1046|positif| pemimpin negara presiden wakilnya menyerahkan gajinya rakyat keperluan rakyatnya prabowo|0.008988490256028426|netral|2|positif
+1048|negatif| penghasilan jokowi bisnis meubelnya gaji presidennya membodohi kaum kampret|0.0022398573635926656|netral|0|negatif
+1050|positif| janji gaji diambil bgawal ulama bener coba tps tusuk prabowo sandi|-0.00713821025349958|netral|2|positif
+1055|positif| sahabat asykar moesa prabowo subianto sandiaga salahuddin uno teilih presiden wakil presiden menyumbangkan gaji kaum dhuafa menerima sepeseun komitmen berdua|0.007595339847447636|netral|2|positif
+1066|negatif| goblok dipelihara jamannya industri kreatif tau omzet pemilik komik juki ratusan juta bulannya woii digaji pengangguran kasian komik juki layak diapresiasi presiden jokowi|-0.02446199442217522|netral|0|negatif
+1077|negatif| prabowo meneladani karyawan ptkiani konon ambil gaji|0.03705385845392112|positif|0|negatif
+1079|netral| menghargai jokowi andi|0.009271460843373495|netral|1|netral
+1089|netral| wahhh niru capressnya menghargai presiden jokowi jejeran artis lainnnya oom kasihan all out|0.02625211615355524|netral|0|negatif
+1090|netral| prabowosandi ambil gaji sepeser teilih presiden|0.006854724345973927|netral|1|netral
+1112|positif| terharu baca reply betapa dihargai diapresiasinya jokowi orang|0.06342977488579359|positif|0|negatif
+1120|netral| namanya jaman modern gaji ditransfer diambil teilih prabowosandi ambil gaji|-0.02218976943798644|netral|1|netral
+1127|netral| kecewa demokrat prabowo hargai kontribusi sby|-0.060546875000000014|negatif|1|netral
+1130|netral| pernyataan penutup jokowima ruf kufur nikmat prabowosandi ambil gaji|0.015395377747675227|netral|1|netral
+1132|positif| semoga gaji guru madrasah tersejahtrakan semoga prabowosandi presiden wakil presiden republik indonesia aammiin|0.03708029991126088|positif|2|positif
+1142|positif| makasih allah skenario agung engkau hadirkan jaman cebong tunjukan pengkhianat munafik bangsa disaat engkau obat prabowo sandi kali sejarah asia tenggara presiden menyedekahkan gaji|0.013880249253194431|netral|2|positif
+1160|negatif| remeh temeh rakyat butuh rakyat butuh kesejahteraan kepastian hukum ekonomi stabil game menggambarkan kualitas sungguh naif memalukan|0.0021465947290226577|netral|0|negatif
+1162|negatif| pejabat digaji rakyat amanah rakyat nakutin beramai teriak nunjukin pangkat kacak pinggang angkuh giliran ganggu pemilu diem teriak kumis tebal|-0.009339942078221487|netral|0|negatif
+1166|netral| demokrat prabowo hargai kontribusi presiden sby|0.0036764705882352936|netral|1|netral
+1196|positif| niat tulus relawan daerah menangkan menjadikan moment tragedi berharga bangsa negara|0.01647328886067695|netral|2|positif
+1208|negatif| iya sprtnya sehat raut wajah gubernurnya masak sampe biarin anak kagak makan kerjaan nye pencitraan mlulu dibayar rakyat makan gaji buta|0.025487563292026703|netral|0|negatif
+1212|netral| presidenwapres gaji prabowosandi negara|0.006947738252086078|netral|1|netral
+1219|positif| teilih presiden ri gaji diambil diserahkan kepentingan rakyat masya allah|-0.02180092971491529|netral|2|positif
+1243|netral| prabowosandi janji ambil gaji teilih|0.005284492744580477|netral|1|netral
+1244|negatif| hua skak mat menghalalkan rebut kekuasan merengek rengek dpt kekuasan berdalih ambil gaji ambil tunjangan dasarkampretgila|-0.01149063181223756|netral|0|negatif
+1248|netral| prabowosandi komitmen teilih kepala negara ambil gaji|0.0031163743693782124|netral|1|netral
+1250|netral| pemimpin negara gaji paus fransiskus vatikan donald trump usa april ketiga prabowosandi satunya asia|0.00938079262401287|netral|1|netral
+1261|netral| debat pilpres teilih prabowo sandi ambil gaji|0.0126753468945585|netral|1|netral
+1268|negatif| apaaaaa gaji rakyat matamu kwi gajinya karyawan kiani kertas tanjung redeb berau|0.003935008646329934|netral|0|negatif
+1277|positif| niat ambil gaji teilih nyinyir langsung nararongol gaji mah tunjangannya gede sedekah dipamerin kampanye bawa agama amal diterima pamer gusti gini hatred|-0.004024170386091567|netral|2|positif
+1281|positif| closing statement mantap prabowo subiantosandiaga uno menyumbangkan gajinya kemaslahatan rakyat kaum dhuafa masyaa allah berhati mulia presiden wakil presiden mencari dunia allah ridhoilah berdua|-0.0020283705986385557|netral|2|positif
+1284|positif| lantik prabowosandi macan asia pemimpin asia gaji yourturnbro|0.02417499929145892|netral|2|positif
+1307|negatif| prabowo bilang rakyat indonesia miskin ngasih sumbangan tau rakyatnya miskin diterima smbngannya lol pendukunya bilang ekonomi susah nyumbang gede sinkron|-0.03244632888316885|negatif|0|negatif
+1308|positif| mantan mertuanya membela mbak tabiat susah prabowo kepentingan kekuasaan legacy presiden persepsi prabowo menghargai|-0.0007607143092334193|netral|0|negatif
+1316|negatif| trus digaji indonesia sjahtera lucu lucu|-0.025692028985507244|netral|0|negatif
+1339|negatif| dungu prabowo mah ikhlas gaji negara teilih|0.011068560838318831|netral|0|negatif
+1341|negatif| jokowi sejarah hapus contoh naikin listrik sembako bbm gaji pns pilpres dtg acara pbb menterinya presiden grusak grusuk janji membebaskn abubakar ba asyir gajd asn jual beli jabatan novel|0.008626662205567688|netral|0|negatif
+1383|positif| janji manis pilpres pks menang bebas pajak kendaraan prabowo sandi menang gaji kerja rakyat miskin jokowi menang pengangguran digaji menangkan|-0.027484998512693558|negatif|2|positif
+1386|negatif| adegan iconik debat prabowo ekonomi teuruk elite menguasai menikmati kekayaan bangsa ma prabowo oalah prabowo ngomongin|0.015042086104510344|netral|0|negatif
+1406|negatif| miskin mental miskin harta miskin harga miskin ilmu mati ajalah kampret|-0.07994536763358992|negatif|0|negatif
+1417|negatif| anak disuruh main calon pekerja dikasih kartu pengangguran dikasih gaji tka dikasih kerja mantull|0.03871643421629575|positif|0|negatif
+1424|positif| jujur prabowo koar skrg nyapres ngambil gaji rupiah dah kerja ambil gaji rupiah jokowi terbaik|0.05571068180975288|positif|2|positif
+1438|netral| menangi pilpres prabowosandi ambil gaji|-0.010764889971468905|netral|1|netral
+1443|positif| great closing statement from next indonesian leaders berkomitmen berdua mengambil gaji serupiah amanah|0.025310944280926947|netral|2|positif
+1462|negatif| perbodohan kebelet bat pen presiden ge santay kali janji ambil gaji menang pilpres prabowo bukti tulus|0.033613388912114704|positif|0|negatif
+1465|netral| prabowosandi komitmen ambil gaji serupiah teilih dikemanakan gaji mobile|0.009395141143693421|netral|1|netral
+1472|netral| prabowo sandi berkampanye masyarakat antusias sumbangan uang lainlain jasa masyarakat dibalas ole prabowo sandi menerima gaji disumbangkan masayarakat|0.005808467530687965|netral|1|netral
+1481|positif| baca sejarah berdarah darahnya perekonomian china pembangunan infrastruktur kemudahan asing berinvestasi dikawasan industrinya lihat bgmn mrk ngaco diluar pemerintahannya hadeeeuh|-0.0063713968120766434|netral|0|negatif
+1496|negatif| ambil gaji ambil uang fee proyek kkn korupsi uang karyawan gajan perusahaan merugi ambil gaji|-0.010380146287272057|netral|0|negatif
+1500|positif| gaji tujuan utama capres duit koruptor|0.026394918088066217|netral|2|positif
+1511|negatif| ambil gaji juta kebijakannya alirkan keuntungan trilyunan rupiah perusahaann pribadi dki janji basi|0.009370064413460577|netral|0|negatif
+1519|positif| dukung enak banget nganggur gajih suruh main mobile legend|0.012919450780494113|netral|2|positif
+1537|positif| gaji prabowosandi diambil sepeseun membuktikan beliau mmg berjuang kepentingan rakyat bangsa negara|-0.005618523931622055|netral|2|positif
+1571|netral| allah swt prabowo sandi keluasan berkomitmen mengambil gaji serupiah negara kaum yatim dhuafa|0.008536139985235983|netral|1|netral
+1577|netral| jokowi gaji plus tunjangan dibeliin sembako bwt kaum dhuafa|0.023304862072978008|netral|0|negatif
+1580|positif| namnya alapalap otaknya lalapan berisik susahnya mengakui menghargai pekerja kerja fakta nyata diakui kebencian mendalam tergadang otak lhooo pindah jalur jalur waras|0.0041673254969743214|netral|0|negatif
+1624|negatif| brooo narasinya jaga baper prabowo subtansinya ekonominya salah arah jaee ngerusak arah karuan carut marut eknoomi|-0.04349297655992653|negatif|0|negatif
+1627|negatif| majunya bangsa peradaban busuk ditumpuk lagu dijadikan reference memerintah dikemudian koruptor pensiun mengambil gaji|-0.010375683301991257|netral|2|positif
+1634|netral| teilih prabowosandi ambil gaji yatim kaum dhu afa|0.000557651779006396|netral|1|netral
+1636|netral| debat pamungkas capres cawapres pemilu bahas ekonomi kesejahteraan sosial ri ri|0.0140918477872138|netral|1|netral
+1662|negatif| orang dijadikan parameter menggeneralisir ketidak berhasil perekonomian keadilan kesehahteraan masyarakat indonesia sungguh naif|0.02186542958443828|netral|0|negatif
+1675|positif| komunitas olahraga deklarasi dukung jokowima ruf dihadiri puluhan atlet cabang olahraga ratusan simpatisan penghargaan kerja hebat jokowi olahraga indonesia|-0.016798751883292506|netral|2|positif
+1676|negatif| ambil gaji layak presiden layak pemimpin indonesia indikatornya pemimpin|0.017982788946617388|netral|0|negatif
+1682|positif| menggambil gaji upah bentuk keikhlasan membawa indonesia arah saudarasaudari percaya allah terbaik indonesia salam tenang|0.050701032011515816|positif|2|positif
+1684|positif| masyaallah niat tulus eksekusi insyaallah berbalas pahala berlimpah allah kali pimpin digaji salute mister and its|-0.006616702559741908|netral|2|positif
+1699|negatif| hack profesor saididu dibayar jokowi tujuannya ilmu positif berharga akun orang kau handle amin pekerjaan namanya fitnah hoax|0.011383311893482791|netral|0|negatif
+1717|positif| bukti tulus negara menerima gaji hak hasil kerja hrus diterima tulus indonesia serahkan pemerintahan jokowi biar indonesia lbh maju go international|0.05111746177629695|positif|2|positif
+1719|netral| jikateilih prabowo sandi ambil gaji|0.01311782607791381|netral|1|netral
+1729|negatif| judul fitnah kaset pilpres prabowo utang prabowo penculik prabowo pelanggar ham prabowo kasih gajih basi cong basi percaya berita inikan segelintir pendkung|0.0019370523606317988|netral|0|negatif
+1730|negatif| gaji dibayar kiani kertas pilih prabowo sandi|0.02444468388533819|netral|0|negatif
+1732|negatif| prabowo sandi presiden janji make gajinya jokowaw kampanye pake fasilitas negara wkakwka|0.00785480859010271|netral|0|negatif
+1733|negatif| prabowo pernak ketum hkti hasilnya pandai ngomong bilang ngaku terbaik nyalahkan mantan pemimpin rekam jejaknya mimpin perusahan hancur gaji thr karyawan beres|0.013169816688272846|netral|0|negatif
+1751|positif| asiknya jokowi kerjanya nilai penilaian sudut pandang terserah menilai sudut pandang hargailah pilihan orang mendiskriminasi pilihan|0.04603819745140298|positif|2|positif
+1755|negatif| masuk logika cebong prabowo sandi berbicara lap kerja harga mrka miskin mrka kaya mrka peduli nasib rakyat krja bertahan seadanya bgtu jgalah peduli nasibmu biar hidup skedar ngejar nasi bngkus|-0.02601020276355532|netral|0|negatif
+1757|netral| watch pernyataan penutup prabowosandi berkomitmen mengambil gaji amanah youtube|0.022738482988703804|netral|1|netral
+1762|positif| ambil gajinya pribadi tega prabowo sandi ambil gaji ikhlas rakyat abang ambil hak bismilah|0.016969905165759913|netral|2|positif
+1765|positif| gaji pokok diambil fasilitas negara diambil gaji pokok sebulannya ambil akui hebat|0.013668778429550228|netral|2|positif
+1773|netral| teilih prabowosandi nyatakan ambil gaji|0.01055722001730775|netral|1|netral
+1779|positif| iya lupa gaissss prabowo janji nerima gaji tunggu janjinyaaaaa happy weekend payung teduhhhh|-0.00015468582616083652|netral|2|positif
+1784|negatif| pernyataan debat semalam prabowo menimbulkan kontroversi meneri gaji jabatan presiden teilih gaji rakyat takuti uang rakyat penggantinya milyaran ambil|0.026617867233818444|netral|0|negatif
+1791|netral| orang nganggur khan gaji jokowi melamar gamer|-0.05948031749720891|negatif|1|netral
+1799|negatif| beda jokowi menghargai sby sby dukung prabowo menghargai pencapaian presiden mengklaim menyembunyikan fakta ketamakan keserakahan rezim jokowi|-0.0039055313295392096|netral|0|negatif
+1803|netral| kepala negara gaji prabowosandi satunya asia tenggara|0.013308556196754957|netral|1|netral
+1820|negatif| menjelma donald trump omong kosong terima gaji|0.00997071235400755|netral|0|negatif
+1824|positif| presiden panglima tertinggi menghargai pendahulunya|0.08031041924966709|positif|2|positif
+1829|positif| gaji presiden wapres sedekahkan tps tusuk prabowo sandi|0.0014094103103882635|netral|2|positif
+1831|negatif| emangnya jokowi ngambil tunjangan gajih ngutang abrek proyek tol menghasilkan uang saku kampanye duit darimana kerja nyata emangnya duit jokowi presiden ngebangun uang|0.011608474918318592|netral|0|negatif
+1834|positif| prabowo ngomong presiden jaman soekarno sby jasa negara hargai jasa beliau|0.0011246159432433897|netral|1|netral
+1835|positif| presiden gaji ambil hak njenengan kerja njenengan pas presiden|0.0074156473328223765|netral|2|positif
+1836|positif| bayar gajinya presidennya|0.0011949293433083958|netral|0|negatif
+1845|positif| indah venue bergandengan tangan menghargai sepuh sayang maju sedih tiang sepuh dibegitukan|0.00719230868915712|netral|2|positif
+1850|netral| prabowo janji presiden ambil gaji mencontoh akhlak karyawannya pt kiani bertahuntahun ambil gaji|0.014170588446313385|netral|0|negatif
+1853|positif| probowo ekonomi kesejahteraan dianggap beihak rakyat mestinya bangga pilih prabowo|0.022277397920574742|netral|1|netral
+1869|positif| niat tulus relawan daerah menangkan jokowiamin menjadikan moment tragedi berharga bangsa negara|0.014975717146069953|netral|2|positif
+1879|positif| prabowo sandi mengabdi rakyat dibuktikan beliau menerima gaji serupiahpun|0.09196726559143717|positif|2|positif
+1888|negatif| mebeeel piyeeee paak sepiii raaa prabowo menang mebelmu mebelku kabeh pedagang mebeel rameee dagangane ekonomine apik tukuu penak dodolan mebel jaman jokowii ngeluu siraah jaman sby jooss gandooss|-0.01166665120593692|netral|0|negatif
+1890|netral| sandi janji ambil gaji prabowo mengabdi|0.015739214039287148|netral|1|netral
+1894|negatif| perekonomian hancur gara presiden salah|-0.05433189594760132|negatif|0|negatif
+1911|netral| dunia gaji kepala negara prabowosandi|-0.005184086945587938|netral|1|netral
+1917|negatif| terkait pernyataan prabowo bilang indonesia mencontoh perekonomian china analisis underwhat conditionnya empirical mechanismnya temporal location bagaiamana mohon tau pas uas|0.003440586139179769|netral|0|negatif
+1960|negatif| haean iba sby hargai prabowo rakyat menghargai beliau memimpin bangsa lakukan bangsa anak buah marah bosny|-0.016490084082392|netral|2|positif
+1963|negatif| gaji gadiambil tunjangan milyaran bln diambil munafik pres kkn monopoli markup lunasin utng petusahaan wo rugi uno saratoga rugi urus perusahaan rugi urus neg punah|-0.0547711164026429|negatif|0|negatif
+1970|positif| gaji prabowo sandi disumbangkan pemimpin|0.017761138447473852|netral|2|positif
+1971|negatif| petinggi partai demokrat menerima kenyataan hinaan prabowo sby pertanda sby hargai kadernya marwah partai demokrat jatuh tersungkur mencederai perjuangan demokrat|-0.019471875848849844|netral|1|netral
+1975|positif| dengar poltak kupingnya potong uups janji palsu debat semalam membuktikan cerdas ikhlas negara prabowo sandi teilih gajinya rakyat|0.007807141004289978|netral|2|positif
+1982|netral| menang pilpres prabowosandi janji ambil gaji via|-7.379873363653687e-05|netral|1|netral
+1996|positif| yth prabowo sandy hati berkomitmen mengambil gaji teilih semoga allah menjadikan berdua pemimpin umat pemimpin bangsa amanah amiin|0.011062852456967172|netral|2|positif
+2000|negatif| pakta integritas wo pulangkan nb brizik menag kilafah bebaskan ulama kriminal hpl psl gaji gadiambil tunjangan milyaran bln diambil munafik|-0.0011064529900583092|netral|0|negatif
+2002|negatif| berbanding terbalik faktanya wowo sandi menerima sumbangan rakyat kampanye malu komment menerima gaji kampanye mengharapkan sumbangan rakyat|0.005489762429479329|netral|0|negatif
+2005|positif| kejelasan gaji trkhr prabowo pemilik perusahaan perusahaan trsbt dimiliki asingg dah dipecat smua buruh diganti tka parah nantinyaa makanyaa prabowo nyelametin perusahaan trsbt demii indonesiaaaa|-0.010763602034711094|netral|2|positif
+2009|negatif| denger jae gaji prabowo sandiaga diambil diserahkan fakir miskin orang kayak kekayaan nambah|-0.049678571232487284|negatif|0|negatif
+2018|negatif| beneran ambil gaji sumpah pocong sblm berjanji|0.005617372432154724|netral|1|netral
+2020|negatif| tema debat semalam perekonomian paslon melenceng nanyain rakyat butuh main game main game gratis|-0.0021921102717012107|netral|0|negatif
+2045|negatif| ngapain gaji juta tunjangan jabatan beratus juta ambil yaaakan|0.008511428483645172|netral|0|negatif
+2049|positif| iya ambil gaji ambilin ajudan wkwkm|0.005284492744580477|netral|0|negatif
+2051|positif| alhamdulillah smoga terlaksana cita janji ambil gaji menang pilpres prabowo bukti tulus|0.0654594241625935|positif|2|positif
+2052|positif| teilih prabowosandiaga janji ambil gaji tetangga sebelah mantul|0.008223406141684882|netral|2|positif
+2058|negatif| kehebatan seorg wowo tim ekonominya beikir mundur kebelakang jokowi tim ekonominya beikiran kedpn dpn generasi dtg tim ekonom wowo beikir menyenangkan rakyat subsidi sifatnya|-0.0017753215471897773|netral|0|negatif
+2071|netral| cek fakta prabowo aset wni negeri data ditjen pajak|0.004701144090429963|netral|1|netral
+2076|negatif| emang pikirin mikir presiden kerja rakyat ind diem sby tidur mulu jokowi kerja keras dihargai mendingan bobo wowo dipilih tau|0.05846318581847607|positif|0|negatif
+2083|positif| terimakasih prabowo subianto sandiaga uno salahuddin uno gaji diambil kepentingan masyarakat indonesia terimakasih terimakasih rakyat indonesia presiden indonesia adil makmur sabang merauke|-0.036559732310485614|negatif|2|positif
+2089|positif| doyan sandi bodohi simpati buktikan kerja nyata jokowi favorit ambil gaji potensi kebocoran tangan|0.010990623053183778|netral|2|positif
+2090|negatif| gaji pres unt beli tusuk gigi prabowo|-0.018167753350337237|netral|0|negatif
+2093|positif| diharapkan karyawan meniru prabowo sandi mengambil gaji sepeseun|0.05844773122498586|positif|2|positif
+2099|negatif| tanda ketololan jokowi nampak debat serius urusan perekonomi rakyat bangsa pake maen bawa game bocah wkwkk tolol dipeliara jdnya dungu planga plongo bikin malu bangsa|-0.005117264788193971|netral|0|negatif
+2122|negatif| mmrintahkan personil beangkat rendah membuly uas gatot kasihan polisi alat pemuas nafsu politik jokowi gaji jabatn|-0.001749096485485551|netral|0|negatif
+2126|positif| masyaaallah kali seumur kandidat capres cawapres berjanji rakyat indonesia mengambil gajinya diserahkan negara subhanallah bergetar hati sbg rakyat indonesia|0.0076787610291514435|netral|2|positif
+2127|positif| pemimpin karismatik prabowo sandiuno ambil gaji presiden wakil presiden allah subhanahu wa|0.03349165181511559|positif|2|positif
+2133|negatif| jokowi bunuh nyulik ngemplang gaji karyawan masuk panama pappers digampar ipar ditinggal bini disetir adiknya ngomong ditambah|-0.02226037562030336|netral|0|negatif
+2134|negatif| gaji mah fasilitas tunjangan lainlain mah siape bener|0.009002598949591203|netral|0|negatif
+2148|negatif| percaya gajinya diambil keluarganya dapet proyekan semwa jaman harto|0.007248263888888891|netral|0|negatif
+2153|negatif| dibutuhkan pemimpin pencitraan gaji dihibahkan kemampuan menhelola negara prabowo sandi|0.02014759431334266|netral|2|positif
+2169|negatif| rakyat sulit ekonominya dongoknya mobile legend mk prabowo mengembalikannnya konteks kewarasan pertanyaa salah njing|0.028438160339299873|positif|0|negatif
+2175|negatif| astgfrlhalzm sombongg jokowi bru pemimpn gimna jilat jidat a hormari tuuuh orng tua hargai bukn sp banding beliau muuak gwa liat a|-0.010166918732629338|netral|2|positif
+2190|netral| debat presiden closing statement prabowo sandiaga uno beliau pk prabowo teilih pk prabowo mengambil gaji sepeseun gaji terima masyaallah pemimpin mementingkan kpntingan pribadi|0.027638921800676862|positif|1|netral
+2192|negatif| bayar pajak pribadi harta yangbterbongkar panama papers naikan tax ratio tarif bayar naikan bayar panama papers preeetttt|-0.0027536616635045605|netral|0|negatif
+2205|negatif| ambil gaji pantaslah buruhnya digaji|-0.03846550725541952|negatif|0|negatif
+2211|negatif| gaji ambil fee proyek jalan|0.006169055988655828|netral|0|negatif
+2227|positif| prabowo sandi komit gajinya diambil serupiahpun mantap allahu akbar|0.01771723364978903|netral|2|positif
+2241|positif| ri prabowo berani mengkritik presiden salah kelola perekonomian salah jokowi lanjutkan periode|-0.037918706074007054|negatif|2|positif
+2246|positif| perekonomian masyarakat bagus jajan warung jajan restoran mall rame skr jaman modern jajan warung rb mall pake gopay rb nikmatnya salah presiden salah pelaku usaha|-0.01894774765474331|netral|2|positif
+2260|negatif| mendingan prabowo gaji ambil sumbangin jokowi kampanye nebeng pasilitas duit rakyat mobil dinas dipake kaos penuh meluber kaos kasian mobilnya duuh|0.0625264664439359|positif|0|negatif
+2662|negatif| kerja art pengin gaji pergi arab males|0.008131969508477244|netral|0|negatif
+2883|negatif| prabowo kekayaan indonesia dikiasai elite bangga mengakui koarkan anggap merusak ekonomi kekayaan negara malu emang gapunya auto hancur bangsa|-0.04364729835880921|negatif|0|negatif
+3846|netral| program ekonomi jokowi beihak masyarakat kemiskinan diatasi|-0.060271390246239336|negatif|1|netral
+3847|positif| hatihati prabowo sandi komitmen bapakbapak mengambil gaji serupiah heheheheheh|0.010661098505417464|netral|2|positif
+3874|negatif| tolong prabowo presiden bangga kuat tni indonesia minciptakan kapal selam coma menham resmikan presidennya ribuk meresmikan jln tol menghargai anak bangsa jln tol miris tni|-0.0030993756847747557|netral|0|negatif
+3875|positif| sejarah capres cawapres ambil gajinya menyerahkan negara disumbangkan kaum dhuafa yatim piatu rakyat tps tusuk prabowo sandi|-0.0013647684820704946|netral|2|positif
+3885|positif| masyaallah prabowo sandi berjanji mengambil sepeseun gaji teilih|0.01639784121075151|netral|2|positif
+3890|positif| percaya sandi wagub beliau ambil gaji beliau sumbangkan gajinya maksud prabowo suka mengklaim hasil pemikiran ide|0.02211340310301676|netral|2|positif
+3899|positif| presiden mengambil gajinya coba keiklasan masya allah banget haqqul yakiin tusuk prabowo sandi|-0.022259477291977373|netral|2|positif
+3905|netral| akuntabilitas kenegarawan teruji menerimanya prabowo salahkan presiden jokowi perekonomian negara|-0.010709967320261436|netral|1|netral
+3913|positif| sungguh mulia hatinya rela ambil gaji sepeser teilih presiden orang memikirkan menerlukan didunia sampe rela apapun uang hati prabowo sandi|0.016896552383908317|netral|2|positif
+3915|positif| masyaallah hati mulia teilih presiden wakil presiden berdua mengambil gaji rupiah gaji duafa negara prabowosandi mantap hati pilihan|0.012497090618662323|netral|2|positif
+3921|netral| pemimpin menerima gaji sepeseun tusuk prabowo sandi|0.0018412658485561398|netral|2|positif
+3933|negatif| gaji presiden jt prabowo uang segitu beli kuda ekor gaji wapres kisaran jt yaelahhh uang jajan seminggu anaknya sandi kali|0.006596632902305159|netral|0|negatif
+3947|positif| salah temen dumay petani karet sedih inget harga karet nyungseb beliau berharap meningkatkan kesejahteraan petani karet beliau aamiin|-0.0070386270138495435|netral|2|positif
+3950|positif| subhanalloh mulianya hati qu amanah berdua rela gajihnya diambil negara kepentingan anak yatim kaum duafa allohuakbar allohuakbar smga qu sllu dibrkn kesehatan amin|0.0029964827493880433|netral|2|positif
+3964|netral| debat malam ditutup pelajaran berharga jurus kartu jkwma ruf vs komitmen mengambil gaji sepeseun prabowosandi sukai silahkan tentukan tps tgl april|0.00032955588086617035|netral|1|netral
+3966|netral| kasih statistik penghasilan pro gamer ngelebihi gaji seumur hidup amda|-0.011878869234118213|netral|0|negatif
+3969|netral| dinilai membuktikan komitmennya meningkatkan perekonomian bidang industri|0.027556813829135253|positif|1|netral
+3975|positif| masya allah tearssss allah bless sir and gaji diterima allah memberimu indonesia|-0.04347027196734635|negatif|2|positif
+3985|negatif| debat bahas esport caper milenial emang esport lapangan kerja kartu prakerja gajinya setau lapangan kerja youtubers esport|0.018844160685041147|netral|0|negatif
+3986|positif| masya allah komitmen mengambil gaji menjabat|-0.015123196175804385|netral|2|positif
+3989|positif| iyalah gaji diambil|0.0109766139657444|netral|2|positif
+3995|positif| bersyukur gaji rakyat tusuk allah maha membolak balikkan hati|-0.05268362525713695|negatif|2|positif
+4007|negatif| ambil gaji jae disuruh cuti ogah pake fasilitas negara|0.0011231135546437762|netral|0|negatif
+4008|positif| closing mantul masya allah beliau berdua berkomitmen menang mengambil gaji sepeseun beliau serahkan kaum dhuafa allahu akbar allahu akbar|-0.008007708486737508|netral|2|positif
+4024|netral| prabowosandi sepakat mengambil gaji teilih berjanji menghormati ulama mematuhi fakta integritas ijtima ulama|0.03847651112018561|positif|1|netral
+4042|positif| woow gaji prabowo sandi diambil disumbangkan teilih masyaallah|0.010299501223414269|netral|2|positif
+4047|positif| pengabdian negara keikhlasan berdua lillahita ikhlas ngomong ikhlas mengabdi menerima gaji sepersenpun presiden wakil presiden tetesan air mata kebahagiaan indonesia|0.043262867146681|positif|2|positif
+4050|positif| memilih presiden wakil presiden gaji tusuk calon berkerja rakyat gaji|0.010791112698340074|netral|2|positif
+4053|positif| mantap jiwa prabowo sandi mengambil gaji presiden ri|0.023935412574896047|netral|2|positif
+4054|positif| alhamdulillah prabowo sandi menerima gaji memimpin menyumbangkan kepentingan bangsa negara indonesia adil makmur|0.05818436481254771|positif|2|positif
+4060|positif| breaking news prabowo sandi ambil serupiah gaji teilih gancossssssss|0.01311782607791381|netral|2|positif
+4064|negatif| pake susu produksi perusahan nepotisme ambil gaji proyek dikuasai saudara mmg orba ttp bangsat penipu penculik pembunuh|-0.016279584421227025|netral|0|negatif
+4065|positif| tps tusuk prabowo sandi ikhlas berbakti nkri gaji beliau rakyat kereeeeen|0.008411049724297045|netral|2|positif
+4070|netral| gaji dokter hewan minimal juta tusuk prabowosandi|-0.017516211089416957|netral|1|netral
+4071|positif| menempatkan tugasnya bangga prabowo kesempatan ahlinya penjaga kedaulatan pengelola perekonomian aman adil makmur sehat tugas berat pundak br|0.0357092533694401|positif|2|positif
+4074|netral| prabowo sandi menyerahkan gajinya anak yatim kaum duafa aamiin|-0.0017466973994580252|netral|2|positif
+4075|positif| alangkah baiknya gaji presiden wakil presiden tunjangan jabatannya endingnya pemberiannya pahala sekian|0.044044234653976576|positif|2|positif
+4085|negatif| gaji presiden wapres gede gede gaji presdir bank bumn ngaruh rakyat butuh janji|0.009077005125699169|netral|0|negatif
+4086|netral| catat prabowo sandi ambil gajinya menjabat presiden wakil presiden|0.017756225594393604|netral|1|netral
+4087|netral| teilih mengambil gaji rupiahpun|0.011574798784226249|netral|1|netral
+4089|netral| pernyataan penutup oposisi berkomitmen menyumbangkan gaji jabatan berkontribusi kesejahteraan masyarakat menjanjikan kemudahan sektor pemerintahan menciptakan kesejahteraan rakyat tusuk prabowosandi your turn|0.002048259201482358|netral|1|netral
+4090|negatif| sebenernyaa motif prabowo sandi presiden wakil presiden kao dapet uang gajian modal kampanye|0.01146938318589619|netral|0|negatif
+4091|positif| ngambil gaji sedikitpun presiden yaallah semoga rejeki prabowo sandi dilimpahkan menerus aamiin|0.007130275420237156|netral|2|positif
+4092|netral| kesulitan ketakutan ketakutan kesulitan jokowi amanah mengambil sepeseun gaji sandiaga uno|-0.021239303045982826|netral|2|positif
+4097|netral| gaji dipotong mbesengut prabowo sandi presiden butuh gaji dasar missqueeen|0.02004648978098971|netral|1|netral
+16876|netral| hargai hormati sedih ma ruf amin tolak hadiri kampanye prabowo undang selesai hubungan|-0.004844449873768533|netral|1|netral
+16943|negatif| kepemimpinan zonk dpr super nyinyir menghina puteri bangsa indonesia dihargai mata dunia|-0.02043338238133416|netral|2|positif
+16987|netral| ceramah damai indonesiaku perekonomian membaik|-0.006322295551365316|netral|0|negatif
+16990|netral| mari bangun bangsa mendukung perekonomian negara jokowi kerja|-0.0020011717400217274|netral|1|netral
