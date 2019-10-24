@@ -1,5 +1,6 @@
 # SentimentAnalysisOntologyBased
 Ontology-based Sentiment Analysis on the Twitter - Indonesian President Election Campaign 2019 Study Case
+
 We developed an ontology based on the dataset -> "Ekonomi" with three attributes i.e., "Finansial", "Lapangan Kerja", "Kesejahteraan". 
 
 Then we calculate the sentimen of the tweets and summarize the sentiment results based on the ontology attributes.
